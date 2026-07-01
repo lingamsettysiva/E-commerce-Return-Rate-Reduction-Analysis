@@ -1,0 +1,1001 @@
+customer_id,customer_name,age,gender,city,state,country,category,marketing_channel,product_price,returned,return_reason
+1,Lucky Nagar,59,Male,Barasat,Andhra Pradesh,India,Sports,Affiliate,27686,No,Not Returned
+2,Jairaj Narasimhan,47,Male,Bhatpara,Himachal Pradesh,India,Beauty,Organic,25358,No,Not Returned
+3,Upasna Ben,18,Female,Khammam,West Bengal,India,Sports,Affiliate,19902,No,Not Returned
+4,Edhitha Sachar,18,Male,Kanpur,Meghalaya,India,Fashion,Organic,3077,No,Not Returned
+5,Chaitaly Sathe,38,Female,Sasaram,Assam,India,Sports,Email,42018,No,Not Returned
+6,Warda Aurora,35,Female,Bathinda,Tamil Nadu,India,Home & Kitchen,Social Media,48891,No,Not Returned
+7,Mohammed Ravel,57,Male,Gandhidham,Tamil Nadu,India,Electronics,Email,18101,Yes,Changed Mind
+8,Indira Aurora,36,Male,Bhusawal,Punjab,India,Home & Kitchen,Email,32441,No,Not Returned
+9,Yochana Dhaliwal,46,Female,Jamshedpur,Madhya Pradesh,India,Fashion,Email,38315,Yes,Wrong Size
+10,Meghana Zacharia,32,Male,Davanagere,Rajasthan,India,Fashion,Organic,29257,No,Not Returned
+11,Varsha Varkey,62,Male,Kadapa,Himachal Pradesh,India,Sports,Social Media,40154,No,Not Returned
+12,Bhavya Konda,40,Female,Chinsurah,West Bengal,India,Electronics,Email,39421,No,Not Returned
+13,Vrinda Uppal,39,Male,Rajahmundry,Madhya Pradesh,India,Electronics,Google Ads,19512,No,Not Returned
+14,Xavier Gill,42,Male,Lucknow,Mizoram,India,Home & Kitchen,Email,42359,No,Not Returned
+15,Meghana Samra,46,Female,Bihar Sharif,Sikkim,India,Electronics,Affiliate,40637,No,Not Returned
+16,Manya Mander,57,Female,Jaipur,Tamil Nadu,India,Fashion,Organic,33614,No,Not Returned
+17,Logan Chacko,45,Female,Haldia,Rajasthan,India,Home & Kitchen,Organic,2712,No,Not Returned
+18,Aachal Mistry,21,Male,Hazaribagh,Andhra Pradesh,India,Home & Kitchen,Email,14769,Yes,Changed Mind
+19,Caleb Ratta,27,Male,Mango,Goa,India,Beauty,Organic,38963,No,Not Returned
+20,Falak Natarajan,22,Female,Salem,Arunachal Pradesh,India,Home & Kitchen,Social Media,9004,No,Not Returned
+21,Siya Krish,61,Male,Raebareli,Karnataka,India,Home & Kitchen,Email,24976,No,Not Returned
+22,Upkaar Ravel,53,Female,Kharagpur,Gujarat,India,Fashion,Affiliate,13817,No,Not Returned
+23,Jonathan Ganesan,47,Female,Maheshtala,Haryana,India,Electronics,Google Ads,26982,No,Not Returned
+24,Bahadurjit Master,33,Male,Guwahati,Punjab,India,Fashion,Organic,15470,Yes,Damaged
+25,Bachittar Dixit,39,Female,Mehsana,Goa,India,Beauty,Organic,35285,No,Not Returned
+26,Fitan Koshy,29,Female,Ichalkaranji,Maharashtra,India,Sports,Google Ads,37487,No,Not Returned
+27,Yashica Pau,26,Male,Kavali,Goa,India,Beauty,Email,7143,No,Not Returned
+28,Xavier Anne,44,Female,Katihar,Tamil Nadu,India,Electronics,Email,47593,No,Not Returned
+29,Eesha Tata,60,Male,Begusarai,Tripura,India,Electronics,Email,6140,No,Not Returned
+30,Bishakha Luthra,23,Female,Arrah,Punjab,India,Beauty,Google Ads,26060,No,Not Returned
+31,Hiral Deo,48,Female,Jabalpur,Tamil Nadu,India,Sports,Social Media,12551,No,Not Returned
+32,Chaman Wagle,45,Female,Rewa,Meghalaya,India,Home & Kitchen,Affiliate,47877,Yes,Changed Mind
+33,Urvashi Jayaraman,43,Male,Udupi,Bihar,India,Home & Kitchen,Organic,33046,No,Not Returned
+34,Irya Bose,39,Female,Mirzapur,Punjab,India,Electronics,Email,30621,No,Not Returned
+35,Daksha Behl,33,Female,Mysore,Maharashtra,India,Sports,Organic,31778,No,Not Returned
+36,Yahvi Kakar,65,Male,Mumbai,Goa,India,Electronics,Affiliate,9874,No,Not Returned
+37,Teerth Kapoor,20,Male,Kharagpur,Nagaland,India,Beauty,Affiliate,39245,No,Not Returned
+38,Advika Chawla,49,Female,Amroha,Himachal Pradesh,India,Home & Kitchen,Email,4545,No,Not Returned
+39,Raghav Brar,63,Female,Dibrugarh,Himachal Pradesh,India,Home & Kitchen,Email,46042,No,Not Returned
+40,Abhimanyu Pillay,32,Male,Jalgaon,Andhra Pradesh,India,Sports,Google Ads,35719,Yes,Damaged
+41,Vritti Saraf,46,Male,Vasai-Virar,Uttarakhand,India,Electronics,Organic,10170,No,Not Returned
+42,Chatresh Sinha,20,Female,Eluru,West Bengal,India,Sports,Organic,13772,No,Not Returned
+43,Praneel Chokshi,19,Male,Durgapur,Goa,India,Sports,Affiliate,49662,No,Not Returned
+44,Charita Borde,32,Male,Morena,Tripura,India,Sports,Affiliate,23937,No,Not Returned
+45,Anika Ganguly,38,Male,Kollam,West Bengal,India,Electronics,Social Media,30082,No,Not Returned
+46,Ansh Kibe,61,Female,Vijayanagaram,Chhattisgarh,India,Electronics,Email,15091,No,Not Returned
+47,Ishanvi Pingle,52,Male,Agartala,West Bengal,India,Fashion,Social Media,36061,No,Not Returned
+48,Pallavi Kohli,37,Male,Ballia,Himachal Pradesh,India,Fashion,Social Media,32626,Yes,Defective
+49,Vrishti Din,53,Female,Surendranagar Dudhrej,Arunachal Pradesh,India,Home & Kitchen,Social Media,40418,No,Not Returned
+50,Udyati Arya,27,Male,Nashik,Arunachal Pradesh,India,Home & Kitchen,Organic,24107,Yes,Defective
+51,Krishna Rastogi,49,Male,Delhi,Goa,India,Beauty,Affiliate,5560,No,Not Returned
+52,Sarthak Sidhu,26,Female,Kishanganj,Manipur,India,Home & Kitchen,Google Ads,5247,No,Not Returned
+53,Imaran Saran,42,Male,Alwar,Telangana,India,Fashion,Affiliate,4460,No,Not Returned
+54,Saksham Sachar,65,Male,Chittoor,Gujarat,India,Sports,Email,12869,No,Not Returned
+55,Jhalak Shetty,52,Male,Allahabad,Telangana,India,Sports,Email,46337,No,Not Returned
+56,Urishilla Chakrabarti,34,Male,Saharanpur,Tripura,India,Electronics,Google Ads,29279,No,Not Returned
+57,George Pai,60,Male,Kumbakonam,Tripura,India,Beauty,Affiliate,16098,No,Not Returned
+58,Brijesh Tailor,18,Female,Kishanganj,Madhya Pradesh,India,Home & Kitchen,Affiliate,36698,No,Not Returned
+59,Atharv Srivastava,58,Male,Jaunpur,Meghalaya,India,Beauty,Organic,48378,No,Not Returned
+60,Amaira Korpal,41,Male,Navi Mumbai,Mizoram,India,Fashion,Social Media,46909,No,Not Returned
+61,Ekapad Sami,27,Female,Thanjavur,Gujarat,India,Fashion,Google Ads,45276,No,Not Returned
+62,Manthan Swamy,29,Female,Kolhapur,Arunachal Pradesh,India,Beauty,Email,7773,No,Not Returned
+63,Samesh Wadhwa,27,Male,Hyderabad,Uttarakhand,India,Electronics,Affiliate,14113,No,Not Returned
+64,Anthony Choudhary,53,Male,Bidar,Punjab,India,Beauty,Affiliate,9702,No,Not Returned
+65,Janani Dass,28,Female,Thanjavur,Punjab,India,Electronics,Social Media,41550,No,Not Returned
+66,Chaaya Dani,49,Male,Mehsana,Tripura,India,Sports,Social Media,29020,No,Not Returned
+67,Simon Doshi,56,Male,Tiruvottiyur,Punjab,India,Fashion,Email,44457,Yes,Wrong Size
+68,Qadim Gala,23,Male,Tiruvottiyur,Kerala,India,Fashion,Affiliate,47898,No,Not Returned
+69,Samaksh Nori,59,Male,Silchar,Arunachal Pradesh,India,Beauty,Social Media,39300,No,Not Returned
+70,Lucky Ramesh,38,Male,Machilipatnam,Assam,India,Home & Kitchen,Email,38101,No,Not Returned
+71,Shaurya Dasgupta,23,Male,Panihati,Meghalaya,India,Electronics,Email,35647,No,Not Returned
+72,Saanvi Wali,35,Female,Berhampur,Maharashtra,India,Beauty,Affiliate,22849,No,Not Returned
+73,Harsh Char,49,Male,Kulti,Karnataka,India,Fashion,Organic,20179,No,Not Returned
+74,Indrajit Dara,44,Female,Raiganj,Bihar,India,Beauty,Email,24997,No,Not Returned
+75,Rehaan Anne,48,Female,New Delhi,Tripura,India,Fashion,Social Media,1602,No,Not Returned
+76,Lipika Hayre,27,Male,Gudivada,Uttar Pradesh,India,Home & Kitchen,Affiliate,3118,No,Not Returned
+77,Banjeet Chandra,18,Female,Bidhannagar,Tamil Nadu,India,Beauty,Social Media,25669,No,Not Returned
+78,Omkaar Mittal,49,Male,Bulandshahr,Punjab,India,Beauty,Email,6620,No,Not Returned
+79,Chaitaly Nazareth,64,Male,New Delhi,Tamil Nadu,India,Electronics,Organic,18665,Yes,Late Delivery
+80,Fiyaz Munshi,38,Female,Shivpuri,Telangana,India,Beauty,Organic,11677,No,Not Returned
+81,Gopal Sekhon,22,Male,Siliguri,Tripura,India,Sports,Organic,2621,No,Not Returned
+82,Yuvraj Kata,24,Female,Bharatpur,Madhya Pradesh,India,Beauty,Affiliate,42343,No,Not Returned
+83,Laban Mand,57,Female,Katni,West Bengal,India,Home & Kitchen,Organic,21673,No,Not Returned
+84,Oviya Choudhry,51,Female,Bettiah,Gujarat,India,Beauty,Organic,34353,Yes,Defective
+85,Yahvi Bora,45,Male,Rewa,Gujarat,India,Beauty,Email,41812,No,Not Returned
+86,Neelima Nagi,39,Male,Bhubaneswar,Odisha,India,Home & Kitchen,Organic,34433,No,Not Returned
+87,Ranveer Varghese,24,Female,Guwahati,Punjab,India,Home & Kitchen,Social Media,43717,No,Not Returned
+88,Raksha Patla,35,Male,Udupi,Assam,India,Electronics,Google Ads,6320,Yes,Wrong Size
+89,Aarnav Nair,41,Female,Barasat,Punjab,India,Electronics,Email,43131,No,Not Returned
+90,Veda Walla,44,Male,Sultan Pur Majra,Bihar,India,Home & Kitchen,Email,29069,No,Not Returned
+91,Naveen Sahni,49,Female,Coimbatore,Rajasthan,India,Home & Kitchen,Email,17522,No,Not Returned
+92,Barkha Bobal,29,Female,Sambalpur,Himachal Pradesh,India,Beauty,Affiliate,35069,No,Not Returned
+93,Gauri Balay,62,Female,Chinsurah,Manipur,India,Home & Kitchen,Organic,6599,No,Not Returned
+94,Vritti Choudhry,65,Male,Tinsukia,Sikkim,India,Home & Kitchen,Email,20146,No,Not Returned
+95,Chandran Sankaran,29,Female,Tadipatri,Bihar,India,Home & Kitchen,Affiliate,12534,No,Not Returned
+96,Chakradhar Dayal,59,Female,Davanagere,Tripura,India,Sports,Email,34343,No,Not Returned
+97,Harini Raman,55,Male,Sirsa,Sikkim,India,Fashion,Affiliate,15270,No,Not Returned
+98,Amaira Chopra,48,Male,Bahraich,Assam,India,Home & Kitchen,Social Media,47650,No,Not Returned
+99,Vritti Kothari,31,Male,Khandwa,Manipur,India,Fashion,Organic,17402,No,Not Returned
+100,Daksh Saxena,47,Male,Panihati,Uttarakhand,India,Home & Kitchen,Google Ads,25931,No,Not Returned
+101,Qarin Dhaliwal,54,Female,Khammam,Mizoram,India,Beauty,Affiliate,34501,No,Not Returned
+102,Upkaar Ratti,18,Female,Parbhani,Uttarakhand,India,Beauty,Email,34577,Yes,Wrong Size
+103,Krish Mangal,47,Female,Berhampur,Uttar Pradesh,India,Home & Kitchen,Affiliate,33063,No,Not Returned
+104,Alexander Chaudhry,31,Male,Imphal,Uttar Pradesh,India,Home & Kitchen,Email,46517,No,Not Returned
+105,Ati Bobal,29,Female,Khammam,Mizoram,India,Home & Kitchen,Affiliate,27350,No,Not Returned
+106,Sachi Muni,40,Male,Mahbubnagar,Mizoram,India,Home & Kitchen,Affiliate,24331,No,Not Returned
+107,Bakhshi Nath,47,Female,Loni,Odisha,India,Sports,Organic,19193,No,Not Returned
+108,Liam Vora,65,Male,Nadiad,West Bengal,India,Fashion,Social Media,37876,No,Not Returned
+109,Benjamin Mohan,35,Male,Nagercoil,Rajasthan,India,Fashion,Organic,6817,No,Not Returned
+110,Lakshit Aurora,59,Male,Gulbarga,Telangana,India,Fashion,Social Media,44999,No,Not Returned
+111,Kiaan Shan,22,Female,Deoghar,Punjab,India,Electronics,Affiliate,10631,No,Not Returned
+112,Viraj Ratti,25,Male,Proddatur,Haryana,India,Sports,Social Media,3985,No,Not Returned
+113,Utkarsh Swaminathan,65,Female,Agartala,Chhattisgarh,India,Beauty,Google Ads,17719,No,Not Returned
+114,Pushti Tandon,54,Male,Bijapur,Gujarat,India,Electronics,Affiliate,34355,No,Not Returned
+115,Brijesh Bhatti,29,Male,Anand,Assam,India,Fashion,Affiliate,14287,Yes,Changed Mind
+116,Lopa Shah,29,Male,Jamshedpur,Andhra Pradesh,India,Fashion,Affiliate,33043,No,Not Returned
+117,Falguni Chhabra,63,Male,Satna,Karnataka,India,Home & Kitchen,Affiliate,28786,No,Not Returned
+118,Idika Chaudhary,37,Male,Berhampur,Uttarakhand,India,Beauty,Affiliate,29136,No,Not Returned
+119,Tristan Ghose,32,Female,Bulandshahr,Goa,India,Electronics,Organic,10930,No,Not Returned
+120,Chasmum Golla,22,Female,Sirsa,Assam,India,Beauty,Affiliate,19088,No,Not Returned
+121,Reva Rao,30,Female,Akola,Tripura,India,Sports,Affiliate,48882,No,Not Returned
+122,George Arora,34,Male,Hubli–Dharwad,Maharashtra,India,Beauty,Social Media,29015,No,Not Returned
+123,Nidhi Dutt,63,Male,Nadiad,Kerala,India,Home & Kitchen,Affiliate,10222,Yes,Late Delivery
+124,Triveni Gera,35,Female,Bhagalpur,Kerala,India,Home & Kitchen,Social Media,29848,No,Not Returned
+125,Triya Raju,43,Male,Jaipur,Maharashtra,India,Sports,Organic,17261,No,Not Returned
+126,Pratyush Datta,41,Male,Mysore,Nagaland,India,Home & Kitchen,Organic,13758,No,Not Returned
+127,Aadhya Varughese,18,Male,Chittoor,Goa,India,Home & Kitchen,Affiliate,17992,No,Not Returned
+128,Udant Barad,36,Female,Durgapur,Odisha,India,Fashion,Email,39776,No,Not Returned
+129,Nandini Chacko,49,Male,New Delhi,Chhattisgarh,India,Sports,Affiliate,10739,No,Not Returned
+130,Meera Andra,24,Female,Shimoga,Nagaland,India,Sports,Email,25902,No,Not Returned
+131,Baljiwan Lalla,42,Female,Ramagundam,Haryana,India,Electronics,Email,32851,No,Not Returned
+132,Tristan Issac,26,Female,Bhilai,Odisha,India,Home & Kitchen,Email,41110,No,Not Returned
+133,Yashawini Nagarajan,64,Female,Delhi,Andhra Pradesh,India,Fashion,Social Media,41303,Yes,Changed Mind
+134,Aayush Tandon,52,Male,Tadepalligudem,Bihar,India,Sports,Affiliate,15652,No,Not Returned
+135,Ekapad Mital,63,Female,Salem,Uttarakhand,India,Home & Kitchen,Google Ads,17799,Yes,Late Delivery
+136,Aarini Sekhon,60,Male,Kulti,Punjab,India,Home & Kitchen,Affiliate,2398,Yes,Damaged
+137,Anirudh Dara,41,Female,Bidhannagar,Sikkim,India,Beauty,Affiliate,43561,No,Not Returned
+138,Vedant Warrior,27,Female,Siwan,Nagaland,India,Fashion,Email,35607,No,Not Returned
+139,Varsha Kamdar,47,Male,Ongole,Jharkhand,India,Fashion,Google Ads,37623,No,Not Returned
+140,Liam Mitter,58,Male,Ongole,Tamil Nadu,India,Beauty,Affiliate,9807,No,Not Returned
+141,Kalpit Datta,41,Female,Ambattur,Gujarat,India,Electronics,Social Media,26429,No,Not Returned
+142,Vanya Deol,59,Female,Srinagar,Kerala,India,Sports,Email,38468,No,Not Returned
+143,Ucchal Saini,20,Male,Satara,Madhya Pradesh,India,Electronics,Google Ads,44619,No,Not Returned
+144,Thomas Mody,40,Female,Etawah,Arunachal Pradesh,India,Electronics,Social Media,32611,No,Not Returned
+145,Advik Singhal,22,Female,Kishanganj,Punjab,India,Fashion,Google Ads,10774,Yes,Late Delivery
+146,Yadavi Narayanan,56,Female,Madhyamgram,Goa,India,Electronics,Social Media,24073,No,Not Returned
+147,Ojas Arora,58,Male,Durg,Andhra Pradesh,India,Beauty,Organic,24852,No,Not Returned
+148,Anirudh Mukherjee,18,Female,Bharatpur,Tamil Nadu,India,Fashion,Affiliate,15804,No,Not Returned
+149,Dayita Ahuja,51,Male,Aurangabad,Jharkhand,India,Fashion,Google Ads,10732,Yes,Changed Mind
+150,Dalaja Tak,24,Female,Thiruvananthapuram,West Bengal,India,Sports,Social Media,39284,Yes,Late Delivery
+151,Warda Hayre,58,Female,Solapur,Chhattisgarh,India,Beauty,Affiliate,13272,No,Not Returned
+152,Ekanta Khanna,26,Female,Bokaro,Haryana,India,Home & Kitchen,Email,39583,No,Not Returned
+153,Kritika Kumer,54,Male,Orai,Arunachal Pradesh,India,Fashion,Social Media,28885,Yes,Damaged
+154,Gaurangi Bajwa,58,Male,Miryalaguda,Meghalaya,India,Fashion,Email,39234,Yes,Wrong Size
+155,Forum Badal,50,Female,Chandigarh,Tripura,India,Electronics,Organic,28986,No,Not Returned
+156,Hemangini Gulati,60,Male,Jalandhar,Himachal Pradesh,India,Sports,Google Ads,1004,No,Not Returned
+157,Bakhshi Puri,48,Female,Madurai,Meghalaya,India,Fashion,Social Media,5005,No,Not Returned
+158,Yasti Prabhakar,58,Male,Sasaram,Madhya Pradesh,India,Sports,Social Media,10823,Yes,Defective
+159,Chakrika Gupta,27,Male,Gopalpur,Arunachal Pradesh,India,Home & Kitchen,Organic,22220,No,Not Returned
+160,Nachiket Sachar,65,Female,Haridwar,Punjab,India,Sports,Email,29540,No,Not Returned
+161,Gaurika Bajwa,57,Female,Chandigarh,Haryana,India,Beauty,Social Media,34920,No,Not Returned
+162,Ranveer Borde,54,Female,Pallavaram,Punjab,India,Home & Kitchen,Email,44721,No,Not Returned
+163,Udyati Loke,22,Male,Karimnagar,West Bengal,India,Beauty,Affiliate,39568,Yes,Changed Mind
+164,Triveni Dani,18,Female,Shivpuri,Sikkim,India,Fashion,Email,17515,No,Not Returned
+165,Arunima Mand,63,Male,Jhansi,Haryana,India,Home & Kitchen,Affiliate,49663,Yes,Wrong Size
+166,Udant Grover,28,Male,Gangtok,Manipur,India,Fashion,Affiliate,34569,No,Not Returned
+167,Wakeeta Butala,28,Male,Ahmednagar,Kerala,India,Home & Kitchen,Social Media,36455,No,Not Returned
+168,Varenya Doshi,25,Female,Kolhapur,Assam,India,Fashion,Affiliate,27031,Yes,Changed Mind
+169,Dev Parekh,24,Male,Katihar,Telangana,India,Beauty,Email,45070,No,Not Returned
+170,Benjamin Ganguly,37,Female,Unnao,Kerala,India,Fashion,Affiliate,40321,Yes,Changed Mind
+171,Kamya Thakur,35,Male,Bulandshahr,Maharashtra,India,Home & Kitchen,Affiliate,15058,No,Not Returned
+172,Urvashi Roy,56,Male,Dehri,Assam,India,Electronics,Affiliate,28045,Yes,Changed Mind
+173,Zaitra Dugar,33,Female,Ludhiana,Bihar,India,Home & Kitchen,Affiliate,20216,No,Not Returned
+174,Raagini Wason,22,Male,Udaipur,Tamil Nadu,India,Electronics,Email,45791,No,Not Returned
+175,Bimala Raghavan,49,Male,Bijapur,Madhya Pradesh,India,Electronics,Organic,32697,Yes,Changed Mind
+176,Vidhi Kapur,47,Male,Jabalpur,Madhya Pradesh,India,Beauty,Organic,37827,No,Not Returned
+177,Gabriel Toor,43,Female,Pondicherry,Madhya Pradesh,India,Home & Kitchen,Google Ads,22124,No,Not Returned
+178,Keya Kar,41,Male,Thane,Maharashtra,India,Fashion,Email,27184,Yes,Changed Mind
+179,Chaman Dhillon,25,Male,Mango,Kerala,India,Fashion,Google Ads,11220,Yes,Wrong Size
+180,Samesh Jha,21,Female,Aligarh,Meghalaya,India,Sports,Social Media,32653,No,Not Returned
+181,Vansha Nanda,65,Male,Patna,Manipur,India,Fashion,Affiliate,27233,No,Not Returned
+182,Falguni Parmar,18,Female,Solapur,Himachal Pradesh,India,Beauty,Social Media,20517,No,Not Returned
+183,Ronith Ram,48,Female,Parbhani,Assam,India,Home & Kitchen,Google Ads,4949,No,Not Returned
+184,Gautami Banik,44,Female,Gwalior,Manipur,India,Fashion,Google Ads,10029,No,Not Returned
+185,Nidra Dhar,61,Female,Varanasi,Chhattisgarh,India,Beauty,Social Media,49533,No,Not Returned
+186,Rajeshri Saha,18,Male,Eluru,Goa,India,Beauty,Social Media,29914,No,Not Returned
+187,Suhani Malhotra,61,Male,Anand,Kerala,India,Beauty,Social Media,35951,No,Not Returned
+188,Suhani Dubey,61,Female,Sasaram,Nagaland,India,Sports,Organic,47098,No,Not Returned
+189,Baghyawati Mall,50,Female,Satara,Tripura,India,Beauty,Google Ads,37149,No,Not Returned
+190,Ethan Srinivasan,27,Male,Ozhukarai,Goa,India,Beauty,Social Media,23949,No,Not Returned
+191,Mitesh Babu,23,Female,Bhilai,Maharashtra,India,Beauty,Organic,47085,No,Not Returned
+192,Rayaan Wable,50,Female,Bhilwara,Odisha,India,Fashion,Affiliate,35088,No,Not Returned
+193,Upadhriti Batra,45,Female,Tadepalligudem,Manipur,India,Fashion,Affiliate,8337,No,Not Returned
+194,Jackson Raj,59,Male,Dhanbad,Arunachal Pradesh,India,Sports,Affiliate,39697,No,Not Returned
+195,Nathan Chana,47,Male,Cuttack,Maharashtra,India,Sports,Social Media,4899,No,Not Returned
+196,Ekavir Dey,31,Male,Lucknow,Arunachal Pradesh,India,Fashion,Google Ads,48507,No,Not Returned
+197,Vaishnavi Venkataraman,53,Female,Jamshedpur,Karnataka,India,Home & Kitchen,Email,3284,No,Not Returned
+198,Yug Bassi,42,Male,Jamshedpur,Maharashtra,India,Fashion,Social Media,47190,Yes,Wrong Size
+199,Yashodhara Thakkar,39,Male,Thrissur,Nagaland,India,Electronics,Google Ads,18908,No,Not Returned
+200,Wahab Chhabra,40,Female,Kurnool,Assam,India,Home & Kitchen,Google Ads,19072,No,Not Returned
+201,Tripti Goyal,63,Female,Rourkela,Andhra Pradesh,India,Beauty,Affiliate,15415,No,Not Returned
+202,Meera Khurana,38,Female,South Dumdum,Mizoram,India,Sports,Organic,1364,No,Not Returned
+203,Amaira Kamdar,23,Male,Cuttack,Kerala,India,Sports,Email,31713,No,Not Returned
+204,Varenya Kar,45,Female,Ambattur,Uttarakhand,India,Beauty,Social Media,35470,No,Not Returned
+205,Praneel Thaman,43,Female,Bilaspur,Punjab,India,Beauty,Social Media,46581,Yes,Late Delivery
+206,Dalbir Khosla,19,Female,Tinsukia,Arunachal Pradesh,India,Beauty,Affiliate,39273,No,Not Returned
+207,Victor Sant,25,Male,Bidhannagar,Madhya Pradesh,India,Home & Kitchen,Organic,9254,No,Not Returned
+208,Dalaja Krishnan,61,Female,Hyderabad,Haryana,India,Beauty,Google Ads,41248,No,Not Returned
+209,Ekani Sandhu,62,Female,Pimpri-Chinchwad,Tripura,India,Fashion,Google Ads,44249,Yes,Late Delivery
+210,Yahvi Joshi,61,Female,Muzaffarpur,Uttarakhand,India,Electronics,Organic,7603,No,Not Returned
+211,Aradhana Puri,28,Male,Akola,Telangana,India,Home & Kitchen,Affiliate,22494,No,Not Returned
+212,Neelima Parikh,64,Male,Panvel,Jharkhand,India,Home & Kitchen,Affiliate,20128,No,Not Returned
+213,Deepa Palla,56,Female,Mysore,Rajasthan,India,Sports,Social Media,11530,No,Not Returned
+214,Radhika Goel,26,Female,Satara,Assam,India,Sports,Affiliate,38338,No,Not Returned
+215,Ayushman Palan,29,Female,Panihati,West Bengal,India,Electronics,Email,44875,No,Not Returned
+216,Kiaan Kohli,29,Male,Kottayam,Haryana,India,Electronics,Organic,22810,No,Not Returned
+217,Jagvi Chawla,46,Female,Kharagpur,Goa,India,Beauty,Organic,45236,No,Not Returned
+218,Ayush Kata,51,Male,Tiruchirappalli,Uttar Pradesh,India,Beauty,Email,16686,No,Not Returned
+219,Praneel Bhandari,20,Female,Silchar,Andhra Pradesh,India,Electronics,Social Media,42221,No,Not Returned
+220,Caleb Dasgupta,50,Female,Sambhal,Punjab,India,Fashion,Google Ads,14330,Yes,Wrong Size
+221,Hemal Garde,22,Male,Satara,Goa,India,Home & Kitchen,Social Media,14527,Yes,Late Delivery
+222,Ikbal Lalla,28,Male,Shivpuri,Tripura,India,Fashion,Organic,3425,Yes,Wrong Size
+223,Fiyaz Wali,53,Male,Mango,Nagaland,India,Beauty,Email,17878,No,Not Returned
+224,Upadhriti Sunder,36,Female,Dharmavaram,Arunachal Pradesh,India,Electronics,Affiliate,39283,No,Not Returned
+225,Faqid Gaba,63,Female,Srinagar,Tamil Nadu,India,Electronics,Affiliate,3027,No,Not Returned
+226,Tanmayi Dash,35,Female,Naihati,Sikkim,India,Beauty,Affiliate,10388,No,Not Returned
+227,Gauri Narang,59,Male,Guna,Uttarakhand,India,Beauty,Affiliate,48060,Yes,Wrong Size
+228,Ishanvi Baral,33,Male,Mau,Goa,India,Sports,Social Media,13169,No,Not Returned
+229,Ranveer Gokhale,40,Female,Kollam,Arunachal Pradesh,India,Electronics,Affiliate,19522,No,Not Returned
+230,Vasana Sekhon,29,Male,Ichalkaranji,Maharashtra,India,Beauty,Organic,15769,No,Not Returned
+231,Wyatt Atwal,55,Female,Shimoga,Goa,India,Sports,Social Media,867,No,Not Returned
+232,Amara Badal,23,Female,Patna,Andhra Pradesh,India,Sports,Google Ads,17429,No,Not Returned
+233,Mahika Dani,58,Female,Shimla,Manipur,India,Electronics,Affiliate,1211,No,Not Returned
+234,Sathvik Mohan,59,Male,Gurgaon,Mizoram,India,Beauty,Organic,10157,No,Not Returned
+235,Dakshesh Gupta,64,Male,Bhusawal,Tamil Nadu,India,Home & Kitchen,Google Ads,23002,No,Not Returned
+236,Madhavi Nayar,42,Male,Jalgaon,Manipur,India,Home & Kitchen,Organic,14256,No,Not Returned
+237,Pooja Jani,46,Male,Imphal,Odisha,India,Beauty,Organic,45839,Yes,Wrong Size
+238,Yauvani Dhar,54,Male,Morbi,Telangana,India,Home & Kitchen,Organic,34447,Yes,Changed Mind
+239,Zayan Ratta,60,Female,Chapra,Kerala,India,Electronics,Email,25473,No,Not Returned
+240,Vihaan Krish,51,Male,Jhansi,Bihar,India,Sports,Affiliate,8123,No,Not Returned
+241,Sanaya Wali,18,Male,Patna,Nagaland,India,Home & Kitchen,Organic,38883,No,Not Returned
+242,Andrew Arora,42,Male,Tadepalligudem,Goa,India,Home & Kitchen,Organic,43495,No,Not Returned
+243,Ryan Goyal,29,Female,Ambala,Tamil Nadu,India,Beauty,Social Media,14921,No,Not Returned
+244,Amaira Maharaj,29,Male,Chinsurah,West Bengal,India,Home & Kitchen,Organic,599,No,Not Returned
+245,Balendra Karpe,42,Female,Warangal,Andhra Pradesh,India,Sports,Email,3530,No,Not Returned
+246,Indali Padmanabhan,38,Male,Khandwa,Meghalaya,India,Beauty,Organic,11233,Yes,Late Delivery
+247,Krishna Sankaran,34,Male,Jehanabad,Punjab,India,Sports,Affiliate,21346,No,Not Returned
+248,Kai Bobal,59,Male,Ranchi,Bihar,India,Home & Kitchen,Affiliate,45705,No,Not Returned
+249,Gautam Sabharwal,61,Female,Gandhidham,Telangana,India,Beauty,Email,17117,No,Not Returned
+250,Shivansh Rattan,57,Male,Raiganj,Mizoram,India,Home & Kitchen,Affiliate,33585,No,Not Returned
+251,Divya Srivastava,19,Male,Tadipatri,Tripura,India,Electronics,Social Media,18961,No,Not Returned
+252,Vasudha Varkey,28,Female,Giridih,Chhattisgarh,India,Electronics,Affiliate,1617,No,Not Returned
+253,Wridesh Sheth,32,Female,Agra,Haryana,India,Beauty,Affiliate,46370,No,Not Returned
+254,Dipta Sathe,29,Male,Mysore,Himachal Pradesh,India,Home & Kitchen,Organic,39716,No,Not Returned
+255,Joshua Bhandari,35,Female,Davanagere,Bihar,India,Beauty,Affiliate,28746,No,Not Returned
+256,Rohan Sahni,42,Female,Bellary,Bihar,India,Sports,Google Ads,21024,No,Not Returned
+257,Yashawini Gokhale,61,Female,Nanded,Sikkim,India,Electronics,Affiliate,25774,No,Not Returned
+258,Christopher Palla,19,Male,Gulbarga,Chhattisgarh,India,Fashion,Affiliate,40623,No,Not Returned
+259,Omya Rastogi,40,Male,Gwalior,Andhra Pradesh,India,Sports,Affiliate,35512,Yes,Wrong Size
+260,Odika Natt,35,Female,Durg,Odisha,India,Fashion,Social Media,36507,Yes,Changed Mind
+261,Garima Kaur,44,Female,Bhatpara,Kerala,India,Beauty,Social Media,39750,No,Not Returned
+262,Aadi Mukherjee,39,Male,Jehanabad,Andhra Pradesh,India,Home & Kitchen,Affiliate,19170,No,Not Returned
+263,Vedhika Pant,56,Male,Durg,Himachal Pradesh,India,Fashion,Organic,48086,No,Not Returned
+264,Saumya Bora,26,Female,Rajpur Sonarpur,Bihar,India,Electronics,Google Ads,19497,Yes,Late Delivery
+265,Wishi Gour,18,Male,Ongole,Bihar,India,Home & Kitchen,Google Ads,33423,No,Not Returned
+266,Vincent Tara,22,Female,Lucknow,Himachal Pradesh,India,Sports,Social Media,20310,No,Not Returned
+267,Abha Arya,29,Male,Satara,Meghalaya,India,Home & Kitchen,Organic,49442,No,Not Returned
+268,Kevin Saran,21,Female,Kirari Suleman Nagar,Rajasthan,India,Home & Kitchen,Email,49181,No,Not Returned
+269,Vansha Gola,50,Male,Nanded,Tripura,India,Electronics,Email,10755,No,Not Returned
+270,Pushti Baral,52,Male,Vasai-Virar,Chhattisgarh,India,Beauty,Affiliate,27900,No,Not Returned
+271,Advaith Chaudhuri,23,Male,Bhavnagar,Gujarat,India,Home & Kitchen,Organic,33087,Yes,Damaged
+272,Prisha Ghose,61,Male,Ujjain,Goa,India,Fashion,Organic,27632,No,Not Returned
+273,Siddharth Kala,64,Male,Ghaziabad,Arunachal Pradesh,India,Beauty,Affiliate,17870,No,Not Returned
+274,Rayaan Sant,23,Male,Loni,Haryana,India,Sports,Social Media,7072,No,Not Returned
+275,Ekanta Raman,44,Male,Mumbai,Sikkim,India,Electronics,Affiliate,31677,No,Not Returned
+276,Idika Reddy,56,Male,Muzaffarnagar,Mizoram,India,Electronics,Email,39783,No,Not Returned
+277,Unnati Nayak,20,Female,Jalgaon,Himachal Pradesh,India,Sports,Email,38590,No,Not Returned
+278,Bhavika Das,51,Female,Singrauli,Arunachal Pradesh,India,Beauty,Social Media,20801,No,Not Returned
+279,Wishi Shroff,25,Female,Danapur,Gujarat,India,Electronics,Social Media,29085,No,Not Returned
+280,Joshua Deol,41,Male,Mira-Bhayandar,Uttarakhand,India,Sports,Affiliate,17229,No,Not Returned
+281,Jason Kala,30,Female,Bharatpur,Arunachal Pradesh,India,Fashion,Social Media,18061,Yes,Damaged
+282,Nicholas Munshi,47,Male,Bhopal,Manipur,India,Fashion,Email,9245,No,Not Returned
+283,Nikita Sarkar,61,Female,Bijapur,Meghalaya,India,Sports,Social Media,48191,No,Not Returned
+284,Jai Ratta,20,Male,Ongole,Assam,India,Sports,Email,7492,No,Not Returned
+285,Udarsh Tata,44,Female,Dehri,Haryana,India,Home & Kitchen,Google Ads,33822,No,Not Returned
+286,Ishwar Palla,51,Male,Guntur,Rajasthan,India,Home & Kitchen,Affiliate,28267,No,Not Returned
+287,Lajita Chander,60,Male,Uluberia,Mizoram,India,Beauty,Organic,20918,No,Not Returned
+288,Chakrika Basu,53,Male,Jodhpur,Uttar Pradesh,India,Fashion,Affiliate,49864,No,Not Returned
+289,Rehaan Korpal,60,Female,Kamarhati,Telangana,India,Beauty,Google Ads,42355,No,Not Returned
+290,Zinal Sandal,57,Male,Jalandhar,Maharashtra,India,Electronics,Email,38991,No,Not Returned
+291,Bhavika Dyal,48,Female,Bhiwani,Jharkhand,India,Sports,Affiliate,26658,No,Not Returned
+292,Amara Bajwa,30,Male,Ramagundam,Kerala,India,Home & Kitchen,Google Ads,45899,No,Not Returned
+293,Raksha Dara,45,Female,Vijayanagaram,Karnataka,India,Sports,Social Media,25552,No,Not Returned
+294,Yatin Dube,61,Female,Muzaffarpur,Andhra Pradesh,India,Sports,Organic,22665,No,Not Returned
+295,Urvi Ram,25,Female,Vadodara,Meghalaya,India,Electronics,Affiliate,24740,Yes,Late Delivery
+296,Aradhana Sem,21,Male,Bihar Sharif,West Bengal,India,Sports,Organic,10551,No,Not Returned
+297,Oeshi Vig,64,Male,Bhusawal,Meghalaya,India,Electronics,Organic,32945,No,Not Returned
+298,Aadhya Kadakia,20,Male,Baranagar,Jharkhand,India,Electronics,Organic,17192,No,Not Returned
+299,Avi Dhar,20,Male,Thoothukudi,Kerala,India,Electronics,Affiliate,38796,No,Not Returned
+300,Udarsh Boase,28,Male,Allahabad,Uttarakhand,India,Fashion,Organic,31590,Yes,Wrong Size
+301,Amruta Pall,45,Male,Jaunpur,Rajasthan,India,Fashion,Email,5106,Yes,Late Delivery
+302,Vyanjana Agrawal,42,Female,Bokaro,Goa,India,Fashion,Email,35313,No,Not Returned
+303,Nilima Dube,65,Male,Jehanabad,Punjab,India,Home & Kitchen,Social Media,26271,No,Not Returned
+304,Rajeshri Chakraborty,41,Male,Tinsukia,Sikkim,India,Electronics,Affiliate,2666,No,Not Returned
+305,Pushti Garde,37,Male,Proddatur,Maharashtra,India,Fashion,Organic,44478,Yes,Late Delivery
+306,Aadi Vasa,20,Female,Noida,Maharashtra,India,Fashion,Affiliate,43187,No,Not Returned
+307,Yashica Mani,36,Female,Bally,Telangana,India,Electronics,Affiliate,23895,Yes,Wrong Size
+308,Sara Korpal,18,Female,Howrah,Tripura,India,Electronics,Email,14381,No,Not Returned
+309,Warda Halder,43,Male,Bhind,Kerala,India,Electronics,Affiliate,2103,Yes,Changed Mind
+310,Darpan Chadha,40,Female,Muzaffarnagar,Andhra Pradesh,India,Electronics,Google Ads,34554,No,Not Returned
+311,Oscar Brahmbhatt,46,Male,Parbhani,Rajasthan,India,Home & Kitchen,Google Ads,8482,No,Not Returned
+312,Sachi Yohannan,27,Male,Solapur,Arunachal Pradesh,India,Beauty,Email,42090,No,Not Returned
+313,Rehaan Randhawa,53,Female,Dewas,Mizoram,India,Fashion,Social Media,12218,Yes,Defective
+314,Nidhi Bhattacharyya,31,Male,Rampur,Uttarakhand,India,Sports,Social Media,9626,No,Not Returned
+315,Falguni Shere,39,Female,Khandwa,West Bengal,India,Beauty,Organic,37174,No,Not Returned
+316,Jhalak Toor,32,Male,Rajkot,Meghalaya,India,Sports,Organic,14249,No,Not Returned
+317,Rachit Devan,37,Female,Ballia,Jharkhand,India,Electronics,Social Media,35925,No,Not Returned
+318,Reva Bhasin,42,Male,Nagaon,Manipur,India,Electronics,Social Media,45621,No,Not Returned
+319,Ekani Gopal,21,Male,Kollam,Assam,India,Fashion,Email,49167,No,Not Returned
+320,Rajeshri Das,32,Male,Tirupati,Uttarakhand,India,Sports,Social Media,33688,No,Not Returned
+321,Elijah Shukla,20,Female,Jodhpur,Uttar Pradesh,India,Fashion,Organic,43449,No,Not Returned
+322,Nakul Sule,31,Female,Dindigul,Punjab,India,Fashion,Organic,9160,Yes,Wrong Size
+323,Odika Dalal,46,Male,Gangtok,Gujarat,India,Fashion,Email,34789,No,Not Returned
+324,Faqid Chacko,37,Male,Raebareli,Chhattisgarh,India,Beauty,Social Media,20417,Yes,Changed Mind
+325,Upadhriti Nagar,43,Male,Jehanabad,Chhattisgarh,India,Home & Kitchen,Social Media,6325,No,Not Returned
+326,Advaith Kibe,44,Male,Bhubaneswar,Bihar,India,Electronics,Affiliate,23632,No,Not Returned
+327,Rohan Ramaswamy,44,Male,Kamarhati,Punjab,India,Electronics,Organic,40348,Yes,Changed Mind
+328,Gaurang Jaggi,20,Male,Ratlam,Kerala,India,Electronics,Social Media,13901,No,Not Returned
+329,Alexander Chacko,43,Female,Thiruvananthapuram,Himachal Pradesh,India,Electronics,Email,8049,No,Not Returned
+330,Pratyush Bhagat,34,Female,Bidar,Jharkhand,India,Electronics,Email,12674,No,Not Returned
+331,Charan Kanda,41,Female,Kolkata,Arunachal Pradesh,India,Electronics,Google Ads,11382,No,Not Returned
+332,Girindra Baria,31,Female,Silchar,Nagaland,India,Electronics,Social Media,32698,No,Not Returned
+333,Kai Thakkar,46,Female,Dehradun,Mizoram,India,Beauty,Organic,6942,Yes,Damaged
+334,Faqid Bhatnagar,42,Female,Rourkela,Kerala,India,Home & Kitchen,Affiliate,25674,No,Not Returned
+335,Tripti Salvi,24,Female,Korba,Jharkhand,India,Fashion,Google Ads,5155,No,Not Returned
+336,Kashish Vaidya,39,Female,Malegaon,Nagaland,India,Sports,Email,14942,No,Not Returned
+337,Pooja Lall,42,Male,Siwan,Maharashtra,India,Sports,Google Ads,15939,No,Not Returned
+338,Simon Shanker,57,Male,Dehri,Manipur,India,Sports,Email,40168,No,Not Returned
+339,Umang Baral,60,Male,Dharmavaram,Mizoram,India,Home & Kitchen,Organic,9315,Yes,Late Delivery
+340,Balhaar Rajagopal,63,Male,Thrissur,Chhattisgarh,India,Sports,Affiliate,10972,No,Not Returned
+341,Maya Mallick,59,Female,Bongaigaon,Tripura,India,Electronics,Google Ads,25063,No,Not Returned
+342,Jeevika Devan,33,Female,Berhampore,Maharashtra,India,Home & Kitchen,Google Ads,11888,No,Not Returned
+343,Aashi Dora,54,Male,Kolhapur,Uttar Pradesh,India,Fashion,Social Media,15277,Yes,Damaged
+344,Ranbir Ramakrishnan,63,Female,Naihati,Maharashtra,India,Sports,Organic,24571,No,Not Returned
+345,Ranveer Bhakta,24,Female,Raiganj,Gujarat,India,Sports,Organic,29994,No,Not Returned
+346,Abhiram Bajaj,65,Male,Hajipur,Andhra Pradesh,India,Beauty,Social Media,28112,Yes,Late Delivery
+347,Anya Dora,42,Female,Bhilai,Manipur,India,Home & Kitchen,Social Media,23708,Yes,Defective
+348,Krishna Parsa,43,Male,Mau,Himachal Pradesh,India,Fashion,Affiliate,33648,No,Not Returned
+349,Darika Loke,45,Male,Kolkata,Punjab,India,Sports,Affiliate,41577,No,Not Returned
+350,Fiyaz Warrior,33,Female,Kochi,Telangana,India,Sports,Email,35283,No,Not Returned
+351,Yasti Varkey,47,Female,Kollam,Punjab,India,Home & Kitchen,Google Ads,49928,No,Not Returned
+352,Darika Gara,27,Female,Jodhpur,Maharashtra,India,Fashion,Email,29508,No,Not Returned
+353,Indira Bera,28,Female,Amroha,Andhra Pradesh,India,Sports,Google Ads,10910,No,Not Returned
+354,Sai Kunda,58,Female,Kulti,Odisha,India,Fashion,Google Ads,16996,No,Not Returned
+355,Oliver Rajagopal,26,Male,Ujjain,Uttar Pradesh,India,Sports,Organic,3963,No,Not Returned
+356,Aarnav Nazareth,21,Female,Jamshedpur,Maharashtra,India,Beauty,Email,41045,No,Not Returned
+357,Rishi Dua,25,Female,Bangalore,Odisha,India,Electronics,Affiliate,24312,No,Not Returned
+358,Jeevika Kunda,51,Female,Udupi,Mizoram,India,Beauty,Organic,12897,No,Not Returned
+359,Logan Baria,22,Female,Hapur,Bihar,India,Electronics,Affiliate,19552,No,Not Returned
+360,Azaan Bhandari,18,Female,Kolhapur,Jharkhand,India,Fashion,Social Media,9669,Yes,Wrong Size
+361,Aahana Pandya,25,Female,Noida,Karnataka,India,Sports,Social Media,42315,No,Not Returned
+362,Pratyush Manda,30,Female,Chinsurah,Jharkhand,India,Fashion,Email,21394,Yes,Changed Mind
+363,Peter Keer,46,Female,Kolkata,Punjab,India,Beauty,Social Media,46475,No,Not Returned
+364,Dalaja Kade,36,Male,Jalgaon,Mizoram,India,Sports,Google Ads,46946,No,Not Returned
+365,Nilima Khanna,58,Female,Kulti,Mizoram,India,Electronics,Social Media,9531,No,Not Returned
+366,Yashoda Brar,41,Female,Agra,Tamil Nadu,India,Sports,Organic,48387,No,Not Returned
+367,Harshil Majumdar,21,Female,Jhansi,Meghalaya,India,Sports,Affiliate,2530,No,Not Returned
+368,Reyansh Venkataraman,49,Female,Phagwara,Kerala,India,Sports,Affiliate,30521,No,Not Returned
+369,Avni Parmer,59,Male,Bulandshahr,Tamil Nadu,India,Sports,Email,12330,No,Not Returned
+370,Gunbir Samra,41,Male,Faridabad,Himachal Pradesh,India,Sports,Social Media,44219,No,Not Returned
+371,Samesh Barman,38,Male,Malda,Telangana,India,Sports,Affiliate,9863,No,Not Returned
+372,Hredhaan Suri,59,Female,Tumkur,Maharashtra,India,Fashion,Organic,19600,No,Not Returned
+373,Samar Mutti,51,Female,Mehsana,Haryana,India,Fashion,Email,30292,No,Not Returned
+374,Viraj Choudhury,18,Male,Gurgaon,Karnataka,India,Beauty,Social Media,47549,Yes,Late Delivery
+375,Nathan Dixit,53,Female,Ahmednagar,Telangana,India,Electronics,Email,33816,No,Not Returned
+376,Michael Singhal,43,Male,Hyderabad,Arunachal Pradesh,India,Sports,Email,16517,No,Not Returned
+377,Varsha Doctor,28,Female,Mathura,Manipur,India,Electronics,Affiliate,24121,No,Not Returned
+378,Suhani Buch,51,Female,Hosur,Sikkim,India,Fashion,Google Ads,11976,No,Not Returned
+379,Bhavani Parmar,62,Male,Farrukhabad,Punjab,India,Electronics,Email,39548,Yes,Wrong Size
+380,Chasmum Shukla,32,Male,Kottayam,Madhya Pradesh,India,Home & Kitchen,Google Ads,23677,No,Not Returned
+381,Ubika Tara,29,Female,Solapur,Haryana,India,Beauty,Affiliate,10671,No,Not Returned
+382,Pooja Mani,33,Male,Junagadh,Sikkim,India,Fashion,Affiliate,25350,No,Not Returned
+383,Jack Bail,18,Female,Bhavnagar,Meghalaya,India,Sports,Email,7108,No,Not Returned
+384,Dalaja Yogi,55,Male,Latur,Gujarat,India,Electronics,Social Media,42684,No,Not Returned
+385,Tripti Ranganathan,30,Male,Ujjain,Jharkhand,India,Fashion,Google Ads,10282,No,Not Returned
+386,Viraj Bumb,21,Female,Rohtak,Telangana,India,Fashion,Google Ads,21380,No,Not Returned
+387,Sneha Ahuja,28,Female,Thoothukudi,Rajasthan,India,Home & Kitchen,Google Ads,8580,Yes,Changed Mind
+388,Lopa Goel,44,Female,Raiganj,Rajasthan,India,Fashion,Social Media,42419,No,Not Returned
+389,Ijaya Rai,23,Female,Satna,Tamil Nadu,India,Electronics,Affiliate,48540,Yes,Defective
+390,Jyoti Mangat,53,Female,Purnia,Sikkim,India,Beauty,Email,21679,No,Not Returned
+391,Arunima Mani,24,Female,Morbi,Mizoram,India,Sports,Email,30893,No,Not Returned
+392,Anjali Walla,59,Female,Jehanabad,Nagaland,India,Beauty,Email,6936,No,Not Returned
+393,Vedhika Bail,61,Female,Guwahati,Rajasthan,India,Beauty,Organic,42628,No,Not Returned
+394,Arin Mander,42,Female,Bhavnagar,Bihar,India,Fashion,Social Media,16109,No,Not Returned
+395,Rachita Kaur,62,Male,Haridwar,Jharkhand,India,Fashion,Organic,9660,No,Not Returned
+396,Vedant Pillai,52,Female,Morena,Uttar Pradesh,India,Beauty,Organic,2406,No,Not Returned
+397,Fariq Vora,25,Female,Danapur,Jharkhand,India,Fashion,Email,2957,Yes,Changed Mind
+398,Maanas Halder,25,Male,Rajahmundry,Arunachal Pradesh,India,Sports,Social Media,27053,No,Not Returned
+399,Sara Padmanabhan,50,Male,Alappuzha,Uttar Pradesh,India,Fashion,Social Media,16768,Yes,Late Delivery
+400,Zarna Ramaswamy,62,Male,Alwar,Punjab,India,Electronics,Google Ads,1233,No,Not Returned
+401,Jeevika Bhat,20,Female,Kumbakonam,Sikkim,India,Home & Kitchen,Organic,23748,No,Not Returned
+402,Kamala Talwar,36,Male,Muzaffarpur,Telangana,India,Home & Kitchen,Social Media,33469,No,Not Returned
+403,Harinakshi Bali,58,Female,Buxar,Tripura,India,Sports,Social Media,13104,No,Not Returned
+404,Warjas Ramachandran,26,Female,Agartala,Meghalaya,India,Home & Kitchen,Email,47022,No,Not Returned
+405,Aarush Ravel,22,Female,Raurkela Industrial Township,Andhra Pradesh,India,Beauty,Social Media,13509,No,Not Returned
+406,Dayita Din,31,Female,Ghaziabad,Mizoram,India,Sports,Organic,2996,No,Not Returned
+407,Diya Misra,44,Female,Dindigul,Telangana,India,Beauty,Organic,14197,Yes,Late Delivery
+408,Avni Dixit,41,Male,Bhagalpur,Punjab,India,Electronics,Google Ads,49081,No,Not Returned
+409,Charvi Dhillon,65,Female,Thanjavur,Rajasthan,India,Beauty,Email,1259,No,Not Returned
+410,Falguni Rai,40,Male,North Dumdum,Tamil Nadu,India,Home & Kitchen,Affiliate,18871,No,Not Returned
+411,Abdul Pal,21,Female,Pali,Bihar,India,Beauty,Affiliate,37012,No,Not Returned
+412,Gagan Dixit,33,Male,Anantapur,Kerala,India,Beauty,Google Ads,17622,No,Not Returned
+413,Eesha Bali,52,Male,Chennai,Sikkim,India,Home & Kitchen,Google Ads,21629,No,Not Returned
+414,Indali Chatterjee,42,Female,Mysore,Mizoram,India,Home & Kitchen,Google Ads,1584,No,Not Returned
+415,Upasna Mandal,59,Female,Farrukhabad,Assam,India,Electronics,Organic,21474,No,Not Returned
+416,Utkarsh Rout,48,Male,Udaipur,West Bengal,India,Home & Kitchen,Google Ads,44326,Yes,Defective
+417,Urishilla Gulati,19,Male,Junagadh,Tamil Nadu,India,Home & Kitchen,Affiliate,23937,No,Not Returned
+418,Osha Ganesh,19,Female,Coimbatore,West Bengal,India,Sports,Email,40429,No,Not Returned
+419,Vivaan Rana,56,Female,Panipat,Tripura,India,Sports,Google Ads,48512,No,Not Returned
+420,Vrinda Dhar,33,Female,Unnao,Tripura,India,Sports,Social Media,43444,No,Not Returned
+421,Chameli Sekhon,29,Female,Raurkela Industrial Township,Odisha,India,Electronics,Google Ads,39311,Yes,Late Delivery
+422,Hredhaan Bahl,57,Female,Shahjahanpur,Rajasthan,India,Sports,Social Media,37048,No,Not Returned
+423,Matthew Bedi,22,Female,Bathinda,Sikkim,India,Electronics,Google Ads,20342,No,Not Returned
+424,Yasti Garg,52,Female,Vellore,Uttar Pradesh,India,Beauty,Google Ads,38089,No,Not Returned
+425,Isaiah Balan,50,Female,Surat,Uttar Pradesh,India,Sports,Email,45121,No,Not Returned
+426,Krishna Batra,58,Female,Yamunanagar,Kerala,India,Beauty,Email,47116,No,Not Returned
+427,Leena Venkataraman,47,Male,Dharmavaram,Chhattisgarh,India,Home & Kitchen,Organic,24025,No,Not Returned
+428,Divya Jha,40,Female,Kharagpur,Maharashtra,India,Home & Kitchen,Social Media,31319,No,Not Returned
+429,Turvi Virk,31,Female,Pimpri-Chinchwad,Madhya Pradesh,India,Fashion,Google Ads,28006,No,Not Returned
+430,Liam Sachdev,65,Male,Miryalaguda,Sikkim,India,Sports,Google Ads,2121,No,Not Returned
+431,Shravya Dora,44,Female,Khora ,Nagaland,India,Sports,Organic,30711,No,Not Returned
+432,Tanmayi Rao,27,Female,Aizawl,Haryana,India,Electronics,Email,36293,No,Not Returned
+433,Urishilla Deshmukh,29,Female,Chandigarh,Uttar Pradesh,India,Sports,Affiliate,47020,No,Not Returned
+434,Kritika Chowdhury,53,Male,Sri Ganganagar,Arunachal Pradesh,India,Fashion,Email,12970,No,Not Returned
+435,Zashil Mittal,26,Female,Amravati,Andhra Pradesh,India,Fashion,Affiliate,42776,No,Not Returned
+436,Daksha Hari,41,Female,Ahmedabad,Karnataka,India,Home & Kitchen,Google Ads,4030,No,Not Returned
+437,Zaitra Naidu,26,Female,Dibrugarh,Manipur,India,Beauty,Google Ads,11946,No,Not Returned
+438,Daksha Chakraborty,55,Female,Motihari,West Bengal,India,Beauty,Google Ads,15889,No,Not Returned
+439,Aryan Khalsa,48,Male,Bhubaneswar,Gujarat,India,Fashion,Email,37454,Yes,Damaged
+440,Orinder Kohli,53,Male,Rewa,Nagaland,India,Sports,Affiliate,2325,No,Not Returned
+441,Indrajit Pant,21,Male,Mysore,Chhattisgarh,India,Sports,Social Media,19154,No,Not Returned
+442,Aryan Dalal,25,Female,Kurnool,Bihar,India,Beauty,Social Media,21212,No,Not Returned
+443,Tristan Chandran,57,Female,Jabalpur,Karnataka,India,Fashion,Social Media,10054,No,Not Returned
+444,Wridesh Boase,42,Male,Latur,Uttar Pradesh,India,Home & Kitchen,Email,13462,No,Not Returned
+445,Raagini Virk,61,Male,Hospet,Arunachal Pradesh,India,Sports,Social Media,35437,No,Not Returned
+446,Jagat Garde,31,Male,Dharmavaram,Himachal Pradesh,India,Fashion,Social Media,42515,Yes,Defective
+447,Chaman Kashyap,42,Male,Arrah,Odisha,India,Home & Kitchen,Google Ads,28524,No,Not Returned
+448,Ekta Upadhyay,61,Female,Bhiwani,Goa,India,Home & Kitchen,Social Media,49502,No,Not Returned
+449,Neelima Kala,36,Male,Raiganj,Chhattisgarh,India,Beauty,Affiliate,29187,Yes,Defective
+450,Frado Khalsa,35,Male,Machilipatnam,Haryana,India,Sports,Email,44425,No,Not Returned
+451,Samuel Sur,36,Male,Kadapa,West Bengal,India,Beauty,Social Media,7855,No,Not Returned
+452,Garima Lal,35,Female,Madhyamgram,Sikkim,India,Home & Kitchen,Google Ads,28513,No,Not Returned
+453,Pranit Palla,23,Female,Hyderabad,Uttar Pradesh,India,Fashion,Organic,46026,Yes,Damaged
+454,Chavvi Gupta,23,Female,Sikar,Gujarat,India,Beauty,Google Ads,19881,No,Not Returned
+455,Abhiram Viswanathan,22,Male,Tenali,Tripura,India,Sports,Google Ads,1644,Yes,Changed Mind
+456,Sudiksha Chandra,57,Female,Bikaner,West Bengal,India,Sports,Google Ads,17134,No,Not Returned
+457,Jack Sekhon,35,Male,Nizamabad,Tamil Nadu,India,Home & Kitchen,Google Ads,37949,No,Not Returned
+458,Lavanya More,23,Male,Motihari,Tamil Nadu,India,Fashion,Affiliate,37485,Yes,Changed Mind
+459,Nathan Chopra,43,Female,Moradabad,Tripura,India,Home & Kitchen,Social Media,36886,No,Not Returned
+460,Faraj Mall,65,Male,Saharanpur,Himachal Pradesh,India,Beauty,Email,12697,No,Not Returned
+461,Mekhala Yohannan,49,Female,Jorhat,Andhra Pradesh,India,Fashion,Social Media,8733,No,Not Returned
+462,Lekha Maharaj,29,Female,Burhanpur,Jharkhand,India,Home & Kitchen,Organic,29098,No,Not Returned
+463,Nathan Manda,51,Male,South Dumdum,Tamil Nadu,India,Sports,Google Ads,43566,No,Not Returned
+464,Girindra Kade,22,Female,Medininagar,Andhra Pradesh,India,Home & Kitchen,Google Ads,30690,No,Not Returned
+465,Gaurangi Sagar,42,Female,Bulandshahr,Meghalaya,India,Fashion,Organic,35599,Yes,Wrong Size
+466,Aradhana Divan,60,Female,Shimoga,Maharashtra,India,Home & Kitchen,Social Media,18059,No,Not Returned
+467,Abhimanyu Varughese,62,Male,Proddatur,Tripura,India,Electronics,Email,35436,No,Not Returned
+468,Siya Rege,23,Male,Vasai-Virar,Assam,India,Fashion,Affiliate,28734,No,Not Returned
+469,Gauri Menon,38,Female,Munger,Manipur,India,Electronics,Social Media,19445,No,Not Returned
+470,Ishaan Subramanian,31,Male,Bhavnagar,Goa,India,Beauty,Google Ads,4487,No,Not Returned
+471,Anjali Bala,44,Male,Tiruvottiyur,Maharashtra,India,Home & Kitchen,Affiliate,48471,No,Not Returned
+472,Vanya Kara,29,Male,Darbhanga,Andhra Pradesh,India,Fashion,Google Ads,33633,Yes,Wrong Size
+473,Amaira Kurian,50,Female,Dibrugarh,Madhya Pradesh,India,Sports,Google Ads,17673,No,Not Returned
+474,Chakradev Bhatt,29,Male,Sangli-Miraj & Kupwad,Karnataka,India,Electronics,Google Ads,38162,No,Not Returned
+475,Jagdish Sood,20,Male,Rajahmundry,Odisha,India,Beauty,Email,38470,No,Not Returned
+476,Timothy Saran,65,Female,Phagwara,Jharkhand,India,Home & Kitchen,Social Media,19001,No,Not Returned
+477,Manthan Dhingra,45,Female,Bokaro,Telangana,India,Sports,Affiliate,30774,No,Not Returned
+478,Chaitanya Bora,41,Male,Mangalore,Maharashtra,India,Home & Kitchen,Social Media,20363,No,Not Returned
+479,Isha Doctor,30,Female,Bettiah,Sikkim,India,Sports,Social Media,13925,No,Not Returned
+480,Aadi Savant,54,Male,Bhagalpur,Meghalaya,India,Home & Kitchen,Social Media,32425,No,Not Returned
+481,Shravya Bansal,21,Female,Ulhasnagar,Goa,India,Fashion,Email,32703,No,Not Returned
+482,Arunima Sarkar,25,Female,Sambalpur,Andhra Pradesh,India,Fashion,Organic,21238,Yes,Changed Mind
+483,Nihal Ganguly,47,Female,Gwalior,Punjab,India,Electronics,Email,15329,No,Not Returned
+484,Aarav Kar,39,Female,Sambhal,Chhattisgarh,India,Fashion,Google Ads,46578,Yes,Late Delivery
+485,Ryan Balakrishnan,50,Male,Kishanganj,Arunachal Pradesh,India,Electronics,Affiliate,38065,No,Not Returned
+486,Champak Sane,45,Male,Kamarhati,West Bengal,India,Home & Kitchen,Affiliate,16913,No,Not Returned
+487,Arunima Bose,45,Male,Bareilly,Jharkhand,India,Fashion,Email,34656,No,Not Returned
+488,Pooja Prabhu,48,Female,Chennai,Maharashtra,India,Home & Kitchen,Affiliate,3090,No,Not Returned
+489,Manan Mander,65,Male,Jaunpur,Jharkhand,India,Fashion,Organic,29334,Yes,Damaged
+490,Zayan Gopal,33,Female,Pune,Odisha,India,Fashion,Email,19133,Yes,Late Delivery
+491,Chakradev Oza,39,Female,Bikaner,Manipur,India,Home & Kitchen,Organic,555,No,Not Returned
+492,Leena Dayal,61,Male,Hindupur,Meghalaya,India,Home & Kitchen,Affiliate,47655,Yes,Wrong Size
+493,Chakrika Menon,31,Female,Sambhal,Assam,India,Sports,Google Ads,9626,No,Not Returned
+494,Ishaan Acharya,63,Male,Nanded,Telangana,India,Sports,Google Ads,10057,No,Not Returned
+495,Gaurika Tank,47,Male,Gwalior,Jharkhand,India,Electronics,Affiliate,8294,Yes,Late Delivery
+496,Onkar Kumar,50,Female,Khora ,Arunachal Pradesh,India,Beauty,Affiliate,8347,Yes,Defective
+497,Bina Bajwa,59,Female,Warangal,Gujarat,India,Home & Kitchen,Email,43997,No,Not Returned
+498,Girik Kadakia,44,Female,Miryalaguda,Manipur,India,Fashion,Affiliate,33089,No,Not Returned
+499,Warda Kashyap,20,Male,Tenali,Rajasthan,India,Fashion,Google Ads,28942,No,Not Returned
+500,Irya Sankar,40,Female,Jamshedpur,Kerala,India,Beauty,Organic,14328,No,Not Returned
+501,Noah Devan,65,Male,Thrissur,Karnataka,India,Electronics,Affiliate,29939,No,Not Returned
+502,Rachit Barad,44,Female,Erode,Odisha,India,Electronics,Email,2816,Yes,Defective
+503,Zaitra Sidhu,48,Male,Jaipur,West Bengal,India,Fashion,Google Ads,44149,No,Not Returned
+504,Ishaan Johal,36,Female,Kulti,Tripura,India,Sports,Social Media,39013,No,Not Returned
+505,Vivaan Kala,39,Male,Nellore,Gujarat,India,Beauty,Google Ads,2211,No,Not Returned
+506,Jason Mammen,29,Male,Tadipatri,Mizoram,India,Beauty,Social Media,39447,No,Not Returned
+507,Joshua Sura,43,Male,Bellary,Assam,India,Home & Kitchen,Organic,42252,No,Not Returned
+508,Abeer Jha,26,Male,Machilipatnam,Jharkhand,India,Electronics,Organic,18272,Yes,Late Delivery
+509,Eesha Chahal,41,Female,Kolhapur,Himachal Pradesh,India,Beauty,Google Ads,12730,No,Not Returned
+510,Lopa Bir,45,Male,Darbhanga,Mizoram,India,Fashion,Organic,23443,No,Not Returned
+511,Harita Dua,58,Female,South Dumdum,Bihar,India,Sports,Email,49999,No,Not Returned
+512,Janya Kant,19,Female,Amaravati,Karnataka,India,Beauty,Affiliate,49379,No,Not Returned
+513,Damyanti Chana,63,Male,Kamarhati,Assam,India,Fashion,Organic,29149,No,Not Returned
+514,Chakrika Batta,46,Male,Madanapalle,Odisha,India,Home & Kitchen,Google Ads,2163,No,Not Returned
+515,Kala Vohra,50,Female,Pondicherry,Jharkhand,India,Sports,Email,44205,No,Not Returned
+516,Ronith Wason,51,Female,Miryalaguda,Maharashtra,India,Fashion,Email,5500,Yes,Damaged
+517,Arunima Babu,55,Female,Farrukhabad,Nagaland,India,Home & Kitchen,Email,27784,No,Not Returned
+518,Anita Butala,31,Female,Dharmavaram,Tamil Nadu,India,Fashion,Google Ads,40658,No,Not Returned
+519,Henry Garde,59,Male,Thanjavur,Madhya Pradesh,India,Home & Kitchen,Email,28369,No,Not Returned
+520,Chameli Nazareth,64,Female,Bardhaman,Sikkim,India,Sports,Google Ads,30979,No,Not Returned
+521,Ati Hayer,22,Male,Katihar,Gujarat,India,Electronics,Google Ads,32917,No,Not Returned
+522,Raagini Gill,22,Female,Nashik,Tripura,India,Sports,Organic,35561,No,Not Returned
+523,Ijaya Deol,64,Female,Thoothukudi,Maharashtra,India,Sports,Google Ads,41263,No,Not Returned
+524,Samesh D’Alia,30,Male,Guntakal,Punjab,India,Sports,Social Media,27207,No,Not Returned
+525,Mason Randhawa,60,Female,Chandrapur,Uttar Pradesh,India,Electronics,Organic,43581,No,Not Returned
+526,Ekaraj Bali,53,Male,Etawah,Karnataka,India,Fashion,Social Media,40330,Yes,Late Delivery
+527,Radha Master,52,Female,Karimnagar,Assam,India,Electronics,Affiliate,42426,No,Not Returned
+528,Gautami Srinivasan,59,Male,Berhampur,Uttarakhand,India,Fashion,Affiliate,13631,No,Not Returned
+529,Timothy Tella,24,Female,Dhule,Uttarakhand,India,Fashion,Affiliate,4839,No,Not Returned
+530,Reva Gola,45,Female,Thanjavur,Tripura,India,Home & Kitchen,Google Ads,4236,No,Not Returned
+531,Theodore Radhakrishnan,33,Female,Satna,Punjab,India,Electronics,Email,10544,Yes,Defective
+532,Vedika Swamy,63,Female,Narasaraopet,Nagaland,India,Sports,Affiliate,36275,No,Not Returned
+533,Krishna Goswami,43,Male,Thrissur,Madhya Pradesh,India,Beauty,Organic,12053,No,Not Returned
+534,Nachiket Golla,48,Male,Ajmer,Maharashtra,India,Fashion,Google Ads,11366,No,Not Returned
+535,Ekiya Rajagopalan,27,Female,Bhilwara,Chhattisgarh,India,Beauty,Organic,30715,No,Not Returned
+536,Brinda Ramaswamy,38,Female,Nashik,Madhya Pradesh,India,Electronics,Organic,2160,No,Not Returned
+537,Yasti Kulkarni,57,Female,Singrauli,Tripura,India,Beauty,Email,36134,Yes,Damaged
+538,Ishani Rajan,19,Female,Patna,Telangana,India,Beauty,Google Ads,8066,No,Not Returned
+539,Praneel Chopra,56,Male,Durg,Telangana,India,Beauty,Organic,25092,No,Not Returned
+540,Hema Dhar,44,Male,Ichalkaranji,Telangana,India,Beauty,Google Ads,20526,No,Not Returned
+541,Naveen Sandal,48,Female,Hajipur,Tripura,India,Electronics,Google Ads,25491,No,Not Returned
+542,Siddharth Dugal,49,Male,Nagercoil,Gujarat,India,Sports,Google Ads,3082,No,Not Returned
+543,Janani Vohra,50,Female,Dhanbad,Gujarat,India,Sports,Affiliate,37430,No,Not Returned
+544,Urishilla Parekh,57,Female,Mango,Assam,India,Sports,Social Media,42303,No,Not Returned
+545,Sachi Menon,19,Male,Shivpuri,Kerala,India,Fashion,Google Ads,7042,No,Not Returned
+546,Hitesh Raj,22,Male,Salem,Uttarakhand,India,Beauty,Organic,20451,Yes,Late Delivery
+547,Ishita Gill,37,Male,Jodhpur,Tripura,India,Home & Kitchen,Email,17047,No,Not Returned
+548,Eiravati Narain,39,Male,Bhalswa Jahangir Pur,Goa,India,Beauty,Organic,22901,No,Not Returned
+549,Amol Choudhary,59,Male,Medininagar,Mizoram,India,Beauty,Email,38465,No,Not Returned
+550,Divya Virk,21,Female,Amravati,Jharkhand,India,Fashion,Affiliate,29509,No,Not Returned
+551,Qarin Doctor,23,Male,Alappuzha,Manipur,India,Fashion,Organic,31623,No,Not Returned
+552,Amol Iyer,19,Female,Katihar,Andhra Pradesh,India,Beauty,Affiliate,6841,No,Not Returned
+553,Lila Ramanathan,51,Female,Bharatpur,Goa,India,Sports,Organic,27176,No,Not Returned
+554,Arin Srinivasan,44,Male,Hosur,Meghalaya,India,Fashion,Social Media,28977,Yes,Changed Mind
+555,Jai Butala,26,Male,Shahjahanpur,Odisha,India,Beauty,Social Media,35062,No,Not Returned
+556,Hema Wable,35,Male,Ongole,Uttar Pradesh,India,Home & Kitchen,Affiliate,13650,No,Not Returned
+557,Yashasvi Dani,28,Female,Bharatpur,Karnataka,India,Fashion,Affiliate,28860,No,Not Returned
+558,Geetika Prabhakar,31,Male,Jaunpur,Manipur,India,Electronics,Organic,38703,Yes,Damaged
+559,Elijah Pillay,27,Female,Tadipatri,Arunachal Pradesh,India,Electronics,Google Ads,20474,No,Not Returned
+560,Ridhi Sahni,31,Male,Sultan Pur Majra,Andhra Pradesh,India,Home & Kitchen,Google Ads,4147,No,Not Returned
+561,Bhanumati Verma,36,Male,Panvel,Odisha,India,Fashion,Affiliate,24065,Yes,Late Delivery
+562,Anthony Sura,58,Female,Dhanbad,Odisha,India,Electronics,Affiliate,30386,No,Not Returned
+563,Keya Sur,23,Female,Vijayanagaram,Manipur,India,Fashion,Email,16050,Yes,Late Delivery
+564,Rudra Hari,36,Male,Mau,Jharkhand,India,Fashion,Email,47176,Yes,Changed Mind
+565,Vivaan Panchal,59,Male,Jorhat,Gujarat,India,Home & Kitchen,Affiliate,40570,No,Not Returned
+566,Matthew Kurian,57,Male,Etawah,Odisha,India,Beauty,Affiliate,9503,No,Not Returned
+567,Dalaja Viswanathan,57,Male,Gwalior,West Bengal,India,Electronics,Social Media,28634,No,Not Returned
+568,Dalaja Kurian,63,Male,Srinagar,Nagaland,India,Fashion,Email,7469,No,Not Returned
+569,Samuel Chandra,21,Female,Mirzapur,Goa,India,Home & Kitchen,Email,17876,No,Not Returned
+570,Krishna Chada,46,Male,Varanasi,Andhra Pradesh,India,Beauty,Email,19698,No,Not Returned
+571,Champak Naidu,23,Male,Bongaigaon,Andhra Pradesh,India,Fashion,Affiliate,42781,No,Not Returned
+572,Nathaniel Nadig,22,Female,Coimbatore,Himachal Pradesh,India,Sports,Google Ads,49209,No,Not Returned
+573,Agastya Bala,50,Female,Amritsar,Kerala,India,Home & Kitchen,Affiliate,40564,Yes,Damaged
+574,Wishi Dash,33,Female,Rampur,Gujarat,India,Home & Kitchen,Google Ads,32820,No,Not Returned
+575,Mugdha Talwar,64,Female,Loni,Maharashtra,India,Home & Kitchen,Organic,17744,Yes,Wrong Size
+576,Meghana Maharaj,32,Female,Ulhasnagar,Chhattisgarh,India,Sports,Email,42227,No,Not Returned
+577,Nakul Chander,32,Male,Kharagpur,Meghalaya,India,Beauty,Social Media,40605,No,Not Returned
+578,Vansha Choudhury,46,Female,Bokaro,Tamil Nadu,India,Electronics,Google Ads,6087,No,Not Returned
+579,Pushti Mannan,43,Male,Bulandshahr,Bihar,India,Fashion,Affiliate,35930,Yes,Late Delivery
+580,Pallavi Sethi,33,Female,Mirzapur,Haryana,India,Sports,Social Media,6502,Yes,Damaged
+581,Jalsa Hora,59,Male,Motihari,Karnataka,India,Sports,Google Ads,4168,No,Not Returned
+582,Aadhya Panchal,22,Male,Deoghar,Assam,India,Home & Kitchen,Social Media,46034,No,Not Returned
+583,Ria Solanki,43,Male,Parbhani,Rajasthan,India,Beauty,Social Media,6146,No,Not Returned
+584,Robert Varughese,35,Female,Hospet,Mizoram,India,Home & Kitchen,Organic,16242,No,Not Returned
+585,Aarna Manda,31,Male,Mumbai,Himachal Pradesh,India,Home & Kitchen,Affiliate,48268,Yes,Damaged
+586,Qadim Mannan,26,Male,Satara,Madhya Pradesh,India,Fashion,Email,43345,No,Not Returned
+587,Shivani Naik,31,Male,Udaipur,Uttar Pradesh,India,Electronics,Social Media,35617,No,Not Returned
+588,Agastya Jain,20,Female,Chandrapur,Madhya Pradesh,India,Sports,Google Ads,1609,No,Not Returned
+589,Ansh Kari,42,Male,Hyderabad,Kerala,India,Beauty,Social Media,25517,Yes,Damaged
+590,Oni Char,41,Female,Narasaraopet,Assam,India,Sports,Social Media,3182,No,Not Returned
+591,Neelima Arora,18,Male,Madanapalle,Bihar,India,Home & Kitchen,Affiliate,46490,Yes,Defective
+592,Nitara Parsa,26,Female,Bellary,Madhya Pradesh,India,Electronics,Email,6597,No,Not Returned
+593,Harsh Sane,19,Male,Durgapur,Gujarat,India,Beauty,Organic,29385,Yes,Late Delivery
+594,Warinder Andra,19,Female,Kolhapur,Karnataka,India,Electronics,Affiliate,39742,No,Not Returned
+595,Vaishnavi Khosla,39,Female,Durgapur,Meghalaya,India,Home & Kitchen,Email,36363,No,Not Returned
+596,Unni Dave,54,Male,Madurai,Assam,India,Fashion,Organic,23080,No,Not Returned
+597,Anika Gour,52,Female,Morbi,West Bengal,India,Beauty,Organic,43283,No,Not Returned
+598,Darika Garg,58,Male,Arrah,Bihar,India,Electronics,Social Media,10031,Yes,Defective
+599,Megha Kata,52,Female,Arrah,Rajasthan,India,Beauty,Email,33867,No,Not Returned
+600,Om Khanna,19,Female,Solapur,Telangana,India,Beauty,Google Ads,16109,Yes,Damaged
+601,Meghana Dani,38,Male,Tenali,Haryana,India,Home & Kitchen,Social Media,38900,No,Not Returned
+602,Onveer Randhawa,37,Male,Giridih,Rajasthan,India,Home & Kitchen,Organic,19139,No,Not Returned
+603,Harsh Luthra,65,Male,Machilipatnam,Kerala,India,Home & Kitchen,Email,5577,Yes,Wrong Size
+604,Victor Samra,46,Female,Vasai-Virar,Uttarakhand,India,Home & Kitchen,Affiliate,12011,Yes,Changed Mind
+605,Noah Prakash,31,Male,Nizamabad,Manipur,India,Home & Kitchen,Email,13245,No,Not Returned
+606,Anya Nair,49,Female,Bokaro,Andhra Pradesh,India,Fashion,Google Ads,4552,No,Not Returned
+607,Pranit Mohan,61,Female,Vasai-Virar,Uttar Pradesh,India,Electronics,Affiliate,10792,No,Not Returned
+608,Lopa Kaur,55,Female,Tezpur,Manipur,India,Sports,Google Ads,20483,No,Not Returned
+609,Yashawini Subramanian,47,Female,Tinsukia,Kerala,India,Beauty,Social Media,33495,No,Not Returned
+610,Fariq Raj,30,Female,Jorhat,Maharashtra,India,Beauty,Google Ads,2174,No,Not Returned
+611,Wakeeta Bera,50,Female,Fatehpur,Jharkhand,India,Sports,Affiliate,33539,No,Not Returned
+612,Pratyush Chowdhury,26,Male,Bongaigaon,West Bengal,India,Electronics,Social Media,44754,No,Not Returned
+613,Brinda Hayer,43,Male,Rewa,Uttar Pradesh,India,Electronics,Organic,19218,No,Not Returned
+614,Indrajit Agrawal,34,Male,Bhilai,Meghalaya,India,Sports,Organic,30700,No,Not Returned
+615,Agastya Bahl,23,Female,Avadi,Maharashtra,India,Home & Kitchen,Affiliate,15543,No,Not Returned
+616,Maya Bath,18,Female,Bathinda,Jharkhand,India,Fashion,Organic,47722,Yes,Changed Mind
+617,Daksh Sarraf,32,Male,Bhagalpur,Tripura,India,Sports,Email,12743,No,Not Returned
+618,Naveen Gala,61,Female,Saharanpur,Rajasthan,India,Beauty,Affiliate,22629,Yes,Changed Mind
+619,Vrishti Dasgupta,25,Male,Ludhiana,Nagaland,India,Fashion,Social Media,3175,Yes,Wrong Size
+620,Tanvi Bhattacharyya,64,Male,Rampur,Gujarat,India,Beauty,Email,43671,No,Not Returned
+621,Yuvraj Boase,57,Female,Rajahmundry,Nagaland,India,Electronics,Affiliate,26809,Yes,Late Delivery
+622,Brijesh Deep,34,Male,Motihari,Gujarat,India,Beauty,Google Ads,9337,Yes,Defective
+623,Yashawini Nayak,40,Female,Bangalore,Tamil Nadu,India,Sports,Social Media,18514,No,Not Returned
+624,Ayush Mannan,23,Male,Jaunpur,Uttar Pradesh,India,Electronics,Organic,19135,No,Not Returned
+625,Sachi Vala,34,Male,Chittoor,Manipur,India,Sports,Google Ads,19474,No,Not Returned
+626,Ekantika Shroff,55,Male,Ozhukarai,Meghalaya,India,Fashion,Email,40556,Yes,Damaged
+627,Mugdha Kothari,18,Male,Raurkela Industrial Township,Mizoram,India,Home & Kitchen,Email,39583,No,Not Returned
+628,Mohini Pandya,54,Male,Alappuzha,Nagaland,India,Beauty,Email,30686,No,Not Returned
+629,Bimala Cheema,32,Female,Mahbubnagar,Tamil Nadu,India,Fashion,Google Ads,43798,No,Not Returned
+630,Ucchal Trivedi,56,Male,Rajkot,West Bengal,India,Home & Kitchen,Organic,45540,No,Not Returned
+631,Jalsa Bala,65,Male,Saharanpur,Himachal Pradesh,India,Fashion,Social Media,40271,No,Not Returned
+632,Ati Ben,59,Female,Gaya,Madhya Pradesh,India,Home & Kitchen,Email,8297,No,Not Returned
+633,Baljiwan Kade,28,Male,Bathinda,Odisha,India,Sports,Affiliate,38713,No,Not Returned
+634,Aditya Kaul,35,Female,Panvel,Tamil Nadu,India,Sports,Organic,16227,No,Not Returned
+635,Ayush Sengupta,32,Male,Ujjain,Sikkim,India,Home & Kitchen,Organic,45743,No,Not Returned
+636,Azaan Natarajan,30,Male,Tirunelveli,Uttarakhand,India,Electronics,Organic,4179,No,Not Returned
+637,Sudiksha Dixit,45,Male,Sambhal,Odisha,India,Beauty,Social Media,22311,No,Not Returned
+638,Shravya Babu,22,Female,Sirsa,Mizoram,India,Home & Kitchen,Google Ads,32921,Yes,Damaged
+639,Januja Hayer,39,Female,Nagaon,Bihar,India,Beauty,Email,27562,No,Not Returned
+640,Ganga Mukherjee,63,Female,Patiala,Gujarat,India,Fashion,Social Media,18236,Yes,Changed Mind
+641,Girik Rattan,52,Male,Raebareli,Telangana,India,Sports,Affiliate,29022,No,Not Returned
+642,Niharika Mukhopadhyay,43,Male,Bidar,Tripura,India,Electronics,Google Ads,44771,No,Not Returned
+643,Yatin Murthy,49,Male,Uluberia,Kerala,India,Beauty,Email,20467,No,Not Returned
+644,Zansi Bandi,31,Female,Vijayanagaram,Telangana,India,Electronics,Organic,7537,No,Not Returned
+645,Xiti Sastry,36,Male,Bettiah,Himachal Pradesh,India,Home & Kitchen,Organic,23066,No,Not Returned
+646,Lopa Kala,26,Female,Pallavaram,Chhattisgarh,India,Beauty,Affiliate,18287,No,Not Returned
+647,Jonathan Bali,23,Male,Guntakal,Sikkim,India,Beauty,Organic,19048,Yes,Defective
+648,Teerth Saha,58,Female,Vadodara,Nagaland,India,Beauty,Email,29381,No,Not Returned
+649,Baljiwan Bahri,21,Male,Thanjavur,Mizoram,India,Electronics,Affiliate,18886,No,Not Returned
+650,Dakshesh Pai,36,Male,Bangalore,Uttarakhand,India,Home & Kitchen,Organic,34673,No,Not Returned
+651,Chanakya Basak,21,Male,Morena,Rajasthan,India,Beauty,Organic,38105,No,Not Returned
+652,Rachit Mitra,61,Female,Aligarh,Maharashtra,India,Electronics,Affiliate,46374,No,Not Returned
+653,Imaran Bhalla,55,Male,Madanapalle,Tripura,India,Electronics,Social Media,40652,No,Not Returned
+654,Urvi Oza,49,Female,Mangalore,Nagaland,India,Fashion,Email,8951,No,Not Returned
+655,Harini Barman,52,Female,Mau,Uttar Pradesh,India,Sports,Email,16263,No,Not Returned
+656,Forum Dugar,50,Female,Sagar,Odisha,India,Beauty,Google Ads,49731,No,Not Returned
+657,Januja Ranganathan,19,Male,Meerut,Kerala,India,Home & Kitchen,Email,1687,No,Not Returned
+658,Vasana Mangat,22,Male,Udupi,Bihar,India,Electronics,Organic,19241,No,Not Returned
+659,Dominic Sekhon,38,Female,Ulhasnagar,Punjab,India,Fashion,Affiliate,37141,No,Not Returned
+660,Imaran Shroff,29,Male,Berhampore,Tripura,India,Beauty,Google Ads,40448,No,Not Returned
+661,Rishi Chaudhary,38,Female,Aurangabad,Arunachal Pradesh,India,Home & Kitchen,Email,25143,No,Not Returned
+662,Wahab Chahal,56,Male,Ulhasnagar,Karnataka,India,Sports,Affiliate,43898,No,Not Returned
+663,Panini Raman,29,Male,Bharatpur,Uttarakhand,India,Home & Kitchen,Email,3226,No,Not Returned
+664,Veer Dalal,48,Male,Indore,Himachal Pradesh,India,Sports,Affiliate,18584,No,Not Returned
+665,Leena Chaudhari,41,Male,Ghaziabad,Andhra Pradesh,India,Beauty,Organic,49188,No,Not Returned
+666,Bhavini Dora,55,Female,Mathura,Kerala,India,Electronics,Social Media,31202,No,Not Returned
+667,Nandini Tella,33,Male,Ujjain,Haryana,India,Beauty,Organic,21091,Yes,Wrong Size
+668,Odika Babu,38,Female,Pudukkottai,Mizoram,India,Home & Kitchen,Google Ads,43298,No,Not Returned
+669,Devika Bains,20,Female,Agartala,Mizoram,India,Fashion,Google Ads,49215,Yes,Wrong Size
+670,Aryan Samra,62,Female,Bally,West Bengal,India,Fashion,Social Media,37195,No,Not Returned
+671,Praneel Bhatt,59,Female,Secunderabad,Andhra Pradesh,India,Beauty,Google Ads,33803,Yes,Late Delivery
+672,Avni Dayal,55,Female,Agartala,Nagaland,India,Home & Kitchen,Google Ads,35079,No,Not Returned
+673,Hema Sami,32,Male,Raurkela Industrial Township,Meghalaya,India,Home & Kitchen,Affiliate,47251,Yes,Late Delivery
+674,Leena Srinivas,28,Female,Chandrapur,Uttar Pradesh,India,Electronics,Organic,7318,No,Not Returned
+675,Dayita Ganesh,65,Female,Bhatpara,Haryana,India,Sports,Google Ads,42413,No,Not Returned
+676,Veer Mangal,39,Female,Unnao,Chhattisgarh,India,Fashion,Email,7032,Yes,Damaged
+677,Tanveer Bassi,27,Male,Karawal Nagar,Mizoram,India,Home & Kitchen,Affiliate,8096,No,Not Returned
+678,Lekha Sridhar,28,Female,Jamnagar,Assam,India,Home & Kitchen,Social Media,5764,No,Not Returned
+679,Omya Lad,64,Female,Buxar,Chhattisgarh,India,Beauty,Social Media,33765,Yes,Damaged
+680,Timothy Bose,57,Female,Anantapur,West Bengal,India,Sports,Social Media,2986,No,Not Returned
+681,Jagrati Dhillon,45,Male,Baranagar,Uttarakhand,India,Home & Kitchen,Affiliate,32706,No,Not Returned
+682,Owen Rajagopal,42,Male,Allahabad,Uttar Pradesh,India,Sports,Affiliate,4777,No,Not Returned
+683,Anya Sha,46,Male,Katni,Odisha,India,Electronics,Email,1797,No,Not Returned
+684,Sudiksha Kala,23,Male,Ludhiana,Punjab,India,Sports,Organic,23642,No,Not Returned
+685,Vasana Deep,26,Male,Sikar,Nagaland,India,Electronics,Organic,2754,Yes,Defective
+686,Neha Ravi,55,Male,Jalandhar,Odisha,India,Sports,Organic,15493,No,Not Returned
+687,Frado Taneja,60,Male,Barasat,Haryana,India,Beauty,Organic,36544,Yes,Wrong Size
+688,Yashica Anand,24,Male,Satara,West Bengal,India,Fashion,Affiliate,14014,No,Not Returned
+689,Aarav Kata,31,Male,Kochi,Telangana,India,Home & Kitchen,Google Ads,39296,No,Not Returned
+690,Harish Barman,47,Male,Gorakhpur,Chhattisgarh,India,Beauty,Social Media,12172,No,Not Returned
+691,Sarthak Dixit,53,Female,Bardhaman,Punjab,India,Electronics,Email,43205,No,Not Returned
+692,Rehaan Dave,19,Male,Saharanpur,Jharkhand,India,Fashion,Google Ads,48391,Yes,Damaged
+693,Bakhshi Dugar,27,Female,New Delhi,Odisha,India,Sports,Social Media,25864,Yes,Late Delivery
+694,David Sidhu,38,Male,Bardhaman,Sikkim,India,Sports,Social Media,19056,No,Not Returned
+695,Vasatika Natarajan,42,Female,Loni,Assam,India,Sports,Email,44117,No,Not Returned
+696,Urmi Dube,42,Male,Gurgaon,Himachal Pradesh,India,Electronics,Social Media,49693,No,Not Returned
+697,Zinal Kanda,63,Male,Berhampore,Assam,India,Home & Kitchen,Email,11330,No,Not Returned
+698,Inaya Wali,35,Male,Rohtak,Tripura,India,Electronics,Google Ads,32144,Yes,Late Delivery
+699,Thomas Ganesan,39,Male,Mira-Bhayandar,Punjab,India,Beauty,Organic,49657,No,Not Returned
+700,Bina Dyal,39,Female,Jehanabad,Mizoram,India,Fashion,Google Ads,12461,No,Not Returned
+701,Matthew Bali,52,Male,Gangtok,Himachal Pradesh,India,Sports,Organic,13804,No,Not Returned
+702,Ishaan Prabhakar,19,Male,Malegaon,Haryana,India,Electronics,Email,21626,No,Not Returned
+703,Lopa Manda,31,Female,Gangtok,Arunachal Pradesh,India,Home & Kitchen,Social Media,34091,Yes,Wrong Size
+704,Veer Samra,29,Male,Tenali,Mizoram,India,Electronics,Affiliate,40844,No,Not Returned
+705,Qasim Buch,61,Male,Khandwa,Maharashtra,India,Home & Kitchen,Social Media,22128,No,Not Returned
+706,Balendra Srivastava,65,Male,Tinsukia,Meghalaya,India,Electronics,Email,24683,No,Not Returned
+707,Matthew Barad,25,Female,Anand,Himachal Pradesh,India,Electronics,Affiliate,46276,No,Not Returned
+708,Chanchal Wali,36,Female,Ulhasnagar,Sikkim,India,Fashion,Organic,23359,No,Not Returned
+709,Leela Dua,33,Male,Hapur,Punjab,India,Electronics,Affiliate,35063,No,Not Returned
+710,Chandani Sem,18,Female,Kolhapur,Tamil Nadu,India,Electronics,Google Ads,3815,No,Not Returned
+711,Dayita Narayan,60,Male,Bahraich,Madhya Pradesh,India,Beauty,Google Ads,16966,No,Not Returned
+712,Priya Soman,50,Male,Deoghar,Himachal Pradesh,India,Sports,Affiliate,31203,No,Not Returned
+713,Noah Trivedi,28,Male,Nizamabad,Chhattisgarh,India,Home & Kitchen,Organic,3895,No,Not Returned
+714,Tamanna Gade,32,Male,Bulandshahr,Chhattisgarh,India,Home & Kitchen,Social Media,41292,No,Not Returned
+715,Atharv Sibal,53,Female,Sagar,Andhra Pradesh,India,Electronics,Social Media,38603,No,Not Returned
+716,Nisha Sawhney,63,Female,Mau,Himachal Pradesh,India,Beauty,Affiliate,22617,No,Not Returned
+717,Meera Sridhar,49,Female,Gangtok,Arunachal Pradesh,India,Home & Kitchen,Email,35822,No,Not Returned
+718,Upadhriti Virk,43,Male,Ulhasnagar,Gujarat,India,Electronics,Social Media,34025,No,Not Returned
+719,Indira Kaur,65,Male,Jabalpur,Karnataka,India,Beauty,Google Ads,36805,No,Not Returned
+720,Dayita Anne,31,Male,Rewa,Madhya Pradesh,India,Beauty,Organic,15546,No,Not Returned
+721,Charles Dutt,50,Female,Varanasi,Meghalaya,India,Electronics,Email,8703,No,Not Returned
+722,Lajita Bandi,22,Male,Hapur,Himachal Pradesh,India,Beauty,Social Media,8130,Yes,Defective
+723,Pavani Dalal,43,Male,Bhilai,Tamil Nadu,India,Sports,Affiliate,22764,No,Not Returned
+724,Neha Thaman,48,Male,Bulandshahr,Tamil Nadu,India,Home & Kitchen,Google Ads,34505,No,Not Returned
+725,Bishakha Patla,31,Male,Mangalore,Karnataka,India,Fashion,Affiliate,48455,Yes,Defective
+726,Ayushman Nagi,26,Female,Jammu,Haryana,India,Home & Kitchen,Organic,36362,No,Not Returned
+727,Tristan Shah,34,Male,Morena,Maharashtra,India,Fashion,Email,37726,No,Not Returned
+728,Girik Mani,28,Female,Kolkata,Chhattisgarh,India,Fashion,Organic,36558,No,Not Returned
+729,Kamya Thakur,39,Female,Sirsa,Kerala,India,Home & Kitchen,Google Ads,21545,Yes,Damaged
+730,Lucky Sastry,50,Female,Thanjavur,Uttar Pradesh,India,Electronics,Google Ads,29339,No,Not Returned
+731,Azaan Dugar,26,Female,Silchar,Meghalaya,India,Home & Kitchen,Social Media,24778,No,Not Returned
+732,Aarav Muni,30,Male,Jaunpur,Jharkhand,India,Fashion,Social Media,1590,No,Not Returned
+733,Nathaniel Hayre,54,Male,Jehanabad,Arunachal Pradesh,India,Fashion,Email,24523,Yes,Wrong Size
+734,Mekhala Dora,48,Female,Hapur,Goa,India,Electronics,Google Ads,39435,No,Not Returned
+735,Kala Parmer,51,Male,Siwan,West Bengal,India,Electronics,Google Ads,7026,No,Not Returned
+736,Aahana Dyal,42,Male,Hosur,Meghalaya,India,Sports,Social Media,19060,No,Not Returned
+737,Girindra Chahal,23,Female,Sirsa,Odisha,India,Sports,Email,9575,No,Not Returned
+738,Warinder Din,36,Female,Ambattur,Meghalaya,India,Fashion,Email,2331,No,Not Returned
+739,Rohan Naidu,44,Male,Nashik,Uttar Pradesh,India,Fashion,Social Media,2628,Yes,Wrong Size
+740,Rajata Lata,34,Female,Patiala,Chhattisgarh,India,Home & Kitchen,Organic,31233,No,Not Returned
+741,Yatin Bobal,27,Male,Asansol,Maharashtra,India,Home & Kitchen,Social Media,44607,No,Not Returned
+742,Tanvi Sehgal,46,Female,Malegaon,Chhattisgarh,India,Electronics,Email,6598,No,Not Returned
+743,Sneha Sagar,27,Male,Sri Ganganagar,Himachal Pradesh,India,Electronics,Social Media,20251,No,Not Returned
+744,Gayathri Subramaniam,42,Female,Sonipat,Maharashtra,India,Fashion,Email,42952,No,Not Returned
+745,Hritik Ravel,51,Female,Amaravati,Chhattisgarh,India,Beauty,Email,48785,No,Not Returned
+746,Bachittar Ratti,20,Female,Buxar,Arunachal Pradesh,India,Home & Kitchen,Email,13176,No,Not Returned
+747,Tarak Bumb,53,Male,Suryapet,Jharkhand,India,Home & Kitchen,Organic,36447,No,Not Returned
+748,Keya Kaul,56,Male,Guntakal,Punjab,India,Beauty,Affiliate,3535,No,Not Returned
+749,Wriddhish Shetty,34,Male,Maheshtala,Arunachal Pradesh,India,Electronics,Organic,10415,No,Not Returned
+750,Chandran Kumer,29,Female,Karnal,Assam,India,Electronics,Affiliate,37530,Yes,Defective
+751,Ishita Seshadri,51,Female,Tiruchirappalli,Bihar,India,Beauty,Affiliate,48724,No,Not Returned
+752,Tristan Vohra,50,Male,Bettiah,Mizoram,India,Fashion,Affiliate,19624,Yes,Changed Mind
+753,Udyati Sarna,29,Male,Bareilly,Arunachal Pradesh,India,Beauty,Social Media,35190,No,Not Returned
+754,Janani Sastry,25,Female,Dindigul,Meghalaya,India,Beauty,Affiliate,18537,No,Not Returned
+755,Rayaan Rao,62,Male,Orai,Karnataka,India,Electronics,Email,4379,No,Not Returned
+756,Bhavna Venkataraman,27,Male,Hyderabad,Manipur,India,Electronics,Affiliate,34716,No,Not Returned
+757,Zaid Sridhar,20,Male,Hindupur,Haryana,India,Electronics,Social Media,10291,No,Not Returned
+758,Vincent Chakraborty,33,Female,Agartala,Goa,India,Sports,Affiliate,512,Yes,Damaged
+759,Mohini Mitra,39,Female,Kurnool,Sikkim,India,Sports,Google Ads,41257,No,Not Returned
+760,Faqid Lad,57,Male,Jodhpur,Nagaland,India,Electronics,Google Ads,4299,No,Not Returned
+761,Vidhi Parmar,30,Female,Surendranagar Dudhrej,Chhattisgarh,India,Home & Kitchen,Email,40176,No,Not Returned
+762,Amaira Kulkarni,59,Female,Kollam,Odisha,India,Home & Kitchen,Social Media,48864,No,Not Returned
+763,Chandani Magar,30,Male,Madhyamgram,Telangana,India,Electronics,Google Ads,24142,No,Not Returned
+764,Parth Bedi,62,Female,Dindigul,Jharkhand,India,Beauty,Affiliate,15059,No,Not Returned
+765,Sai Chand,60,Female,Asansol,Haryana,India,Sports,Social Media,11939,No,Not Returned
+766,Onveer Kumer,64,Female,Tinsukia,Nagaland,India,Electronics,Organic,25247,Yes,Defective
+767,Laksh Bakshi,37,Female,Jhansi,Maharashtra,India,Fashion,Social Media,3012,Yes,Late Delivery
+768,Isaiah Verma,54,Male,Agartala,Nagaland,India,Home & Kitchen,Social Media,1892,No,Not Returned
+769,Yasti Rattan,29,Male,Dindigul,Maharashtra,India,Beauty,Affiliate,25426,No,Not Returned
+770,Wakeeta Dubey,20,Female,Jhansi,Nagaland,India,Home & Kitchen,Email,40429,Yes,Damaged
+771,Kavya Saxena,63,Male,Katni,Uttar Pradesh,India,Electronics,Google Ads,45595,No,Not Returned
+772,Yashasvi Bhattacharyya,58,Female,Ramagundam,Odisha,India,Electronics,Google Ads,10780,Yes,Late Delivery
+773,Shaurya Jain,53,Male,Giridih,Uttar Pradesh,India,Sports,Affiliate,17790,No,Not Returned
+774,Abeer Singhal,31,Female,Proddatur,Arunachal Pradesh,India,Fashion,Social Media,31824,No,Not Returned
+775,Zilmil Balay,24,Female,Dewas,Assam,India,Electronics,Email,14819,No,Not Returned
+776,Siya Nadig,59,Female,Muzaffarpur,Rajasthan,India,Sports,Organic,13753,No,Not Returned
+777,Rohan Chhabra,58,Female,Surat,Telangana,India,Sports,Social Media,39813,No,Not Returned
+778,Maanav Sarin,34,Male,Gurgaon,Arunachal Pradesh,India,Home & Kitchen,Email,42945,No,Not Returned
+779,Benjamin Mittal,43,Female,Kollam,Maharashtra,India,Fashion,Email,14938,No,Not Returned
+780,Yatin Prakash,46,Female,Gudivada,Karnataka,India,Home & Kitchen,Google Ads,36314,No,Not Returned
+781,Xalak Baral,39,Female,Ongole,Karnataka,India,Beauty,Affiliate,49516,No,Not Returned
+782,Anirudh Sanghvi,42,Male,Thanjavur,Bihar,India,Home & Kitchen,Affiliate,5521,No,Not Returned
+783,Kamala Keer,31,Male,Davanagere,Assam,India,Sports,Affiliate,25669,No,Not Returned
+784,Oscar Gokhale,45,Female,Durgapur,Meghalaya,India,Electronics,Organic,32570,No,Not Returned
+785,Lopa Nadkarni,60,Female,Sikar,West Bengal,India,Sports,Organic,21431,No,Not Returned
+786,Charita Ratta,54,Female,Mirzapur,Bihar,India,Home & Kitchen,Social Media,14743,No,Not Returned
+787,Chatresh Grover,36,Male,Rohtak,Assam,India,Beauty,Organic,20266,No,Not Returned
+788,Zansi Manda,59,Male,Chandigarh,Bihar,India,Sports,Organic,14218,No,Not Returned
+789,Sachi Som,51,Male,Ranchi,Meghalaya,India,Fashion,Affiliate,14971,Yes,Damaged
+790,Saanvi Sama,64,Female,Bhubaneswar,Maharashtra,India,Fashion,Affiliate,24514,No,Not Returned
+791,Aayush Ranganathan,24,Male,Thane,Jharkhand,India,Beauty,Google Ads,28936,No,Not Returned
+792,Keya Ray,49,Male,Raipur,Arunachal Pradesh,India,Home & Kitchen,Social Media,12778,Yes,Wrong Size
+793,Joshua Sathe,30,Male,Hyderabad,Odisha,India,Beauty,Affiliate,21510,No,Not Returned
+794,Vedant Sarma,52,Male,Thane,Nagaland,India,Fashion,Google Ads,49903,No,Not Returned
+795,Chandresh Yohannan,59,Female,Moradabad,Himachal Pradesh,India,Fashion,Organic,8457,No,Not Returned
+796,Balvan Bedi,50,Male,Durgapur,Uttarakhand,India,Home & Kitchen,Email,3740,No,Not Returned
+797,Tristan Kumar,38,Female,Bidar,Karnataka,India,Beauty,Organic,34021,No,Not Returned
+798,Omya Ramesh,18,Female,Jaunpur,Kerala,India,Beauty,Affiliate,10832,No,Not Returned
+799,Divya Joshi,27,Male,Jaipur,Madhya Pradesh,India,Sports,Social Media,42885,No,Not Returned
+800,Ekapad Saini,24,Female,Jamshedpur,Jharkhand,India,Fashion,Organic,40827,No,Not Returned
+801,Yashasvi Talwar,41,Female,Sasaram,Uttar Pradesh,India,Sports,Social Media,24018,No,Not Returned
+802,Jagdish Dass,46,Male,Jhansi,West Bengal,India,Sports,Google Ads,37319,No,Not Returned
+803,Bachittar Seshadri,40,Male,Malegaon,Haryana,India,Fashion,Affiliate,44736,No,Not Returned
+804,Garima Sharma,28,Female,Darbhanga,Madhya Pradesh,India,Sports,Email,5720,No,Not Returned
+805,Ekaraj Mangal,42,Male,Khora ,Uttar Pradesh,India,Home & Kitchen,Google Ads,33856,No,Not Returned
+806,Abeer Warrior,31,Male,Siwan,Punjab,India,Beauty,Organic,17041,No,Not Returned
+807,Vinaya More,32,Female,Malda,West Bengal,India,Fashion,Organic,47488,No,Not Returned
+808,Udarsh Krishna,38,Male,Vijayanagaram,Maharashtra,India,Sports,Affiliate,31341,No,Not Returned
+809,Tarak Shetty,46,Female,Delhi,Nagaland,India,Electronics,Social Media,38549,No,Not Returned
+810,Vihaan Datta,43,Female,Satara,Uttar Pradesh,India,Fashion,Organic,22987,No,Not Returned
+811,Lopa Master,37,Female,Bhilai,Punjab,India,Fashion,Social Media,761,Yes,Late Delivery
+812,Christopher Mand,36,Female,Jehanabad,Madhya Pradesh,India,Sports,Social Media,500,No,Not Returned
+813,Yatan Salvi,19,Male,Faridabad,Tamil Nadu,India,Sports,Social Media,48084,No,Not Returned
+814,Vritti Parmar,55,Female,Avadi,Kerala,India,Fashion,Affiliate,550,No,Not Returned
+815,Harita Arya,34,Female,Kottayam,Kerala,India,Electronics,Social Media,37885,No,Not Returned
+816,Reva Sachdev,50,Female,Siwan,Uttarakhand,India,Fashion,Google Ads,30022,Yes,Defective
+817,Daniel Ratti,32,Female,Jalandhar,Nagaland,India,Beauty,Affiliate,28638,Yes,Changed Mind
+818,Chanakya Bhandari,40,Female,Raurkela Industrial Township,Chhattisgarh,India,Home & Kitchen,Affiliate,41125,No,Not Returned
+819,Nathaniel Bath,33,Female,Kurnool,Nagaland,India,Sports,Organic,5121,No,Not Returned
+820,Kabir Bhargava,19,Female,Nagpur,Kerala,India,Electronics,Organic,34013,No,Not Returned
+821,Akshay Vohra,57,Female,Proddatur,Madhya Pradesh,India,Beauty,Organic,19440,No,Not Returned
+822,Shaurya Deo,23,Male,Cuttack,Goa,India,Sports,Organic,19486,No,Not Returned
+823,Panini Raja,58,Male,Bhilai,Chhattisgarh,India,Beauty,Affiliate,40829,Yes,Changed Mind
+824,Aarav Kari,57,Male,Shimoga,Mizoram,India,Beauty,Social Media,35489,Yes,Late Delivery
+825,Jalsa Korpal,26,Male,Tirunelveli,Uttarakhand,India,Sports,Google Ads,20591,No,Not Returned
+826,Jeevika Sani,65,Male,Katihar,Jharkhand,India,Fashion,Email,8155,No,Not Returned
+827,Adya Sethi,43,Female,Yamunanagar,Kerala,India,Sports,Social Media,28529,No,Not Returned
+828,Charles Shroff,64,Male,Shimoga,Sikkim,India,Electronics,Affiliate,1540,No,Not Returned
+829,Samesh Divan,57,Female,Chandigarh,Mizoram,India,Sports,Affiliate,45961,No,Not Returned
+830,Bishakha Gupta,42,Female,Bhagalpur,Uttar Pradesh,India,Home & Kitchen,Social Media,27858,No,Not Returned
+831,Lavanya Raval,48,Male,Ambarnath,Andhra Pradesh,India,Electronics,Affiliate,37706,No,Not Returned
+832,Ira Tandon,46,Male,Sasaram,Sikkim,India,Sports,Organic,9296,Yes,Late Delivery
+833,Radha Pillay,20,Male,Begusarai,West Bengal,India,Beauty,Affiliate,7383,No,Not Returned
+834,Rudra Dey,59,Female,Amravati,Telangana,India,Electronics,Organic,7915,No,Not Returned
+835,Darpan Dey,42,Male,Aurangabad,Bihar,India,Sports,Email,13767,No,Not Returned
+836,Bhavini Naik,42,Female,Rajahmundry,Manipur,India,Beauty,Google Ads,8788,No,Not Returned
+837,Girik Rastogi,62,Male,Naihati,Bihar,India,Fashion,Google Ads,34917,No,Not Returned
+838,William Char,57,Male,Satna,Sikkim,India,Beauty,Google Ads,26092,No,Not Returned
+839,Yadavi Sama,38,Female,Pondicherry,Punjab,India,Sports,Google Ads,17861,Yes,Defective
+840,Farhan Parsa,46,Female,Ulhasnagar,Madhya Pradesh,India,Sports,Email,16764,No,Not Returned
+841,Saksham Kumer,62,Female,Surat,Gujarat,India,Sports,Organic,35396,No,Not Returned
+842,Hemangini Om,37,Female,Imphal,Meghalaya,India,Sports,Social Media,20748,No,Not Returned
+843,Christopher Issac,29,Male,Bhagalpur,Karnataka,India,Beauty,Google Ads,44898,No,Not Returned
+844,Eshana Ghosh,25,Female,Deoghar,Haryana,India,Sports,Affiliate,27757,No,Not Returned
+845,Waida Thakur,42,Male,Alwar,Meghalaya,India,Fashion,Email,13028,No,Not Returned
+846,Jasmit Kale,30,Male,Gaya,Rajasthan,India,Sports,Organic,48754,No,Not Returned
+847,Chandresh Devan,58,Female,Kishanganj,Tripura,India,Fashion,Social Media,1928,No,Not Returned
+848,Onveer Kuruvilla,32,Male,Jamshedpur,Haryana,India,Home & Kitchen,Organic,15182,No,Not Returned
+849,Reyansh Oak,41,Female,Udaipur,Tripura,India,Electronics,Google Ads,18835,Yes,Wrong Size
+850,Mugdha Datta,50,Female,Kulti,Gujarat,India,Sports,Google Ads,10665,No,Not Returned
+851,Ikshita Chauhan,30,Female,Bettiah,Himachal Pradesh,India,Home & Kitchen,Email,12510,Yes,Changed Mind
+852,Bhavya Gopal,50,Male,Maheshtala,Arunachal Pradesh,India,Sports,Affiliate,27313,No,Not Returned
+853,Jacob Madan,65,Female,Anantapuram,Rajasthan,India,Home & Kitchen,Affiliate,26927,Yes,Damaged
+854,Pratyush Bansal,33,Female,Ahmedabad,Mizoram,India,Sports,Google Ads,18844,No,Not Returned
+855,Anmol Nair,56,Female,Satna,Karnataka,India,Beauty,Email,44703,No,Not Returned
+856,Samar Mistry,42,Male,Bhagalpur,Manipur,India,Electronics,Organic,10222,Yes,Wrong Size
+857,Baljiwan Baria,36,Female,Surendranagar Dudhrej,Sikkim,India,Home & Kitchen,Organic,28259,No,Not Returned
+858,Anjali Rama,55,Female,Kozhikode,Andhra Pradesh,India,Fashion,Social Media,16351,No,Not Returned
+859,Harita Bail,33,Female,Kakinada,West Bengal,India,Beauty,Organic,38983,No,Not Returned
+860,Raagini Prasad,29,Female,Deoghar,Bihar,India,Fashion,Affiliate,34587,No,Not Returned
+861,Yochana Kulkarni,19,Male,Secunderabad,Tamil Nadu,India,Beauty,Organic,20736,Yes,Changed Mind
+862,Isha Samra,63,Male,Singrauli,Uttar Pradesh,India,Electronics,Social Media,7019,No,Not Returned
+863,Yatin Garde,24,Male,Ratlam,Karnataka,India,Fashion,Social Media,10090,No,Not Returned
+864,Nathaniel Kaul,52,Female,Anantapuram,Meghalaya,India,Electronics,Social Media,35443,No,Not Returned
+865,Faras Karnik,24,Female,Bharatpur,Uttar Pradesh,India,Sports,Social Media,40218,No,Not Returned
+866,Zarna Krish,29,Male,Lucknow,Karnataka,India,Sports,Organic,18361,No,Not Returned
+867,Aachal Pradhan,26,Male,Kalyan-Dombivli,Uttarakhand,India,Fashion,Social Media,30732,No,Not Returned
+868,Timothy Bawa,54,Female,Bareilly,West Bengal,India,Home & Kitchen,Email,44319,No,Not Returned
+869,Januja Sagar,60,Male,Bidar,Punjab,India,Electronics,Affiliate,44903,No,Not Returned
+870,Mason Shan,46,Female,Bidar,Madhya Pradesh,India,Home & Kitchen,Social Media,7604,No,Not Returned
+871,Krishna Memon,18,Male,Aizawl,Gujarat,India,Beauty,Email,28163,No,Not Returned
+872,Anya Keer,49,Female,Sirsa,Tripura,India,Fashion,Email,27394,No,Not Returned
+873,Kritika Kamdar,29,Male,Aurangabad,Sikkim,India,Fashion,Google Ads,31902,No,Not Returned
+874,Baljiwan Sathe,19,Female,Panchkula,Jharkhand,India,Electronics,Email,5620,No,Not Returned
+875,Chatresh Kala,50,Female,Gangtok,Tamil Nadu,India,Home & Kitchen,Affiliate,22023,No,Not Returned
+876,Udyati Kumer,46,Female,Malegaon,Kerala,India,Home & Kitchen,Email,12003,No,Not Returned
+877,Mohini Menon,42,Male,Mehsana,Andhra Pradesh,India,Fashion,Affiliate,29282,No,Not Returned
+878,Aditya Rai,43,Female,Singrauli,Karnataka,India,Home & Kitchen,Organic,18797,No,Not Returned
+879,Yoshita Gara,44,Female,Ludhiana,Madhya Pradesh,India,Sports,Social Media,1400,No,Not Returned
+880,Tristan Sachar,50,Male,Pune,Nagaland,India,Electronics,Organic,39527,No,Not Returned
+881,Yagnesh Nadkarni,32,Female,Bhatpara,Tamil Nadu,India,Home & Kitchen,Affiliate,28563,No,Not Returned
+882,Yasti Tripathi,65,Female,Ranchi,Goa,India,Sports,Email,34788,No,Not Returned
+883,Yashawini Kalla,35,Female,Tezpur,Kerala,India,Electronics,Affiliate,11535,No,Not Returned
+884,Varenya De,51,Female,Navi Mumbai,Haryana,India,Home & Kitchen,Email,41388,No,Not Returned
+885,Udyati Wali,30,Female,Sagar,Madhya Pradesh,India,Fashion,Organic,4185,Yes,Defective
+886,Sai Dora,56,Female,Thanjavur,Meghalaya,India,Fashion,Email,982,No,Not Returned
+887,Maanav Majumdar,51,Male,Nizamabad,Manipur,India,Electronics,Organic,32757,No,Not Returned
+888,Urmi Sachdeva,26,Female,Sultan Pur Majra,Arunachal Pradesh,India,Electronics,Organic,22996,No,Not Returned
+889,Ati Bahl,51,Male,North Dumdum,West Bengal,India,Home & Kitchen,Email,47819,No,Not Returned
+890,Bahadurjit Nair,55,Female,Phusro,Arunachal Pradesh,India,Home & Kitchen,Organic,47721,No,Not Returned
+891,Ojasvi Madan,49,Male,Shivpuri,Maharashtra,India,Electronics,Social Media,17693,No,Not Returned
+892,Idika Bajwa,55,Male,Udaipur,Tamil Nadu,India,Sports,Affiliate,4433,No,Not Returned
+893,Orinder Balasubramanian,26,Male,Burhanpur,Uttar Pradesh,India,Electronics,Social Media,5915,No,Not Returned
+894,Logan Modi,59,Female,Gaya,Manipur,India,Beauty,Social Media,13327,No,Not Returned
+895,Yochana Master,51,Female,Guntur,Punjab,India,Fashion,Social Media,28316,No,Not Returned
+896,Udant Khalsa,48,Male,Bulandshahr,Uttarakhand,India,Electronics,Email,41528,No,Not Returned
+897,Urvashi Manne,46,Male,Chennai,Manipur,India,Electronics,Affiliate,37838,No,Not Returned
+898,Yamini Chauhan,41,Male,Chinsurah,West Bengal,India,Beauty,Organic,45004,No,Not Returned
+899,Chanchal Dara,31,Male,Eluru,Madhya Pradesh,India,Electronics,Affiliate,2242,No,Not Returned
+900,Varenya Karnik,43,Female,Ambattur,Gujarat,India,Beauty,Social Media,45472,No,Not Returned
+901,Harshil Som,31,Female,Munger,Tripura,India,Fashion,Google Ads,10444,Yes,Late Delivery
+902,Ishaan Upadhyay,60,Female,Gandhinagar,Uttarakhand,India,Beauty,Organic,4441,No,Not Returned
+903,Omaja Datta,61,Male,Tadipatri,Nagaland,India,Fashion,Organic,6249,No,Not Returned
+904,Robert Suresh,59,Male,Dibrugarh,Telangana,India,Electronics,Email,5068,No,Not Returned
+905,Gaurika Sharaf,39,Male,Aizawl,Nagaland,India,Home & Kitchen,Organic,8438,No,Not Returned
+906,Chaitanya Sekhon,60,Female,Thiruvananthapuram,Telangana,India,Electronics,Email,8268,No,Not Returned
+907,Ekani Prasad,44,Male,Tenali,Uttar Pradesh,India,Sports,Organic,36790,No,Not Returned
+908,Tara Ramanathan,18,Male,Gwalior,Assam,India,Fashion,Affiliate,18039,No,Not Returned
+909,Kavya Gera,35,Male,Gorakhpur,Maharashtra,India,Fashion,Affiliate,36980,No,Not Returned
+910,Yashasvi Mittal,46,Female,Warangal,Gujarat,India,Sports,Email,9341,No,Not Returned
+911,Madhavi Nayar,41,Male,Rampur,Tripura,India,Beauty,Affiliate,6219,No,Not Returned
+912,Atharv Johal,40,Female,Bhusawal,Karnataka,India,Sports,Google Ads,18094,No,Not Returned
+913,Maanas Srivastava,30,Female,Korba,Jharkhand,India,Home & Kitchen,Affiliate,27997,No,Not Returned
+914,Rajeshri Patel,31,Female,Panipat,Punjab,India,Beauty,Organic,1009,No,Not Returned
+915,Quincy Minhas,56,Female,Surat,Uttar Pradesh,India,Fashion,Email,20411,Yes,Defective
+916,Peter Chad,30,Male,Khora ,Kerala,India,Fashion,Social Media,21418,No,Not Returned
+917,Anjali Sharma,37,Female,Bareilly,Uttarakhand,India,Electronics,Social Media,39160,No,Not Returned
+918,Meera Srivastava,49,Female,Naihati,Himachal Pradesh,India,Sports,Google Ads,29661,No,Not Returned
+919,Vrinda Wadhwa,42,Male,Jorhat,Telangana,India,Electronics,Affiliate,18420,No,Not Returned
+920,Rushil Andra,34,Female,Munger,Kerala,India,Home & Kitchen,Email,16912,No,Not Returned
+921,Vedika Pradhan,33,Male,Meerut,Meghalaya,India,Sports,Google Ads,19069,Yes,Late Delivery
+922,Udyati Mohanty,40,Female,Kakinada,Odisha,India,Beauty,Google Ads,4947,No,Not Returned
+923,Upasna Kari,18,Female,Bikaner,Gujarat,India,Electronics,Organic,13964,No,Not Returned
+924,Abhimanyu Bhagat,44,Male,Ambala,Rajasthan,India,Home & Kitchen,Google Ads,30830,No,Not Returned
+925,Osha Malhotra,60,Male,Motihari,Manipur,India,Sports,Email,3263,No,Not Returned
+926,Jacob Bedi,64,Male,Pali,Andhra Pradesh,India,Beauty,Email,30902,No,Not Returned
+927,Ekaraj Rattan,36,Female,Surendranagar Dudhrej,Bihar,India,Beauty,Social Media,23717,Yes,Defective
+928,Lavanya Buch,46,Male,Satna,Telangana,India,Electronics,Social Media,43217,No,Not Returned
+929,Charan Pall,49,Male,Bettiah,Manipur,India,Sports,Google Ads,10511,No,Not Returned
+930,Reyansh Chatterjee,34,Female,Bihar Sharif,Tripura,India,Electronics,Affiliate,16826,Yes,Defective
+931,Rajeshri Sethi,50,Male,Vijayanagaram,Meghalaya,India,Electronics,Organic,13813,Yes,Wrong Size
+932,Ria Sani,27,Female,Surendranagar Dudhrej,Rajasthan,India,Home & Kitchen,Google Ads,29580,No,Not Returned
+933,Ubika Thaman,55,Male,Thoothukudi,Kerala,India,Home & Kitchen,Affiliate,47118,No,Not Returned
+934,Pavani Nadig,38,Male,Sambalpur,Kerala,India,Fashion,Email,18325,No,Not Returned
+935,Gaurika Verma,53,Male,Farrukhabad,Assam,India,Sports,Google Ads,32957,No,Not Returned
+936,Rohan Sahni,48,Female,Sasaram,Meghalaya,India,Beauty,Organic,17736,No,Not Returned
+937,Jalsa Kala,29,Male,Bijapur,Karnataka,India,Electronics,Affiliate,13550,No,Not Returned
+938,Triveni Kanda,31,Female,Mango,Arunachal Pradesh,India,Beauty,Google Ads,20443,No,Not Returned
+939,Jairaj Badal,39,Male,Coimbatore,Tamil Nadu,India,Beauty,Organic,35458,Yes,Late Delivery
+940,Manbir Dora,41,Female,Srikakulam,Chhattisgarh,India,Beauty,Affiliate,31654,No,Not Returned
+941,Max Prakash,39,Female,Bikaner,Mizoram,India,Beauty,Email,12640,No,Not Returned
+942,Zarna Choudhry,51,Female,Bijapur,Meghalaya,India,Beauty,Social Media,6805,No,Not Returned
+943,Ayushman Palan,26,Female,Akola,Maharashtra,India,Beauty,Social Media,7053,No,Not Returned
+944,Aarnav Rau,61,Female,Saharanpur,Mizoram,India,Beauty,Google Ads,10139,No,Not Returned
+945,Kavya Raval,26,Male,Asansol,Andhra Pradesh,India,Beauty,Email,38335,No,Not Returned
+946,Ekavir Dhillon,63,Female,Vadodara,Kerala,India,Home & Kitchen,Social Media,38611,No,Not Returned
+947,Yochana Chad,38,Female,Jaunpur,Uttarakhand,India,Beauty,Email,10465,No,Not Returned
+948,Tanvi Kamdar,19,Male,Dehradun,Himachal Pradesh,India,Fashion,Affiliate,38916,No,Not Returned
+949,Amaira Oak,52,Female,Sagar,Madhya Pradesh,India,Beauty,Social Media,34016,No,Not Returned
+950,Bachittar Solanki,33,Female,Chittoor,Rajasthan,India,Electronics,Email,682,Yes,Wrong Size
+951,Aayush Sant,59,Female,Avadi,Goa,India,Home & Kitchen,Email,2391,Yes,Wrong Size
+952,Nathaniel Gopal,57,Female,Aizawl,Jharkhand,India,Home & Kitchen,Google Ads,16345,No,Not Returned
+953,Dalaja Gopal,45,Male,Orai,Assam,India,Beauty,Social Media,42293,No,Not Returned
+954,Jasmit Prabhakar,57,Female,Raebareli,Chhattisgarh,India,Fashion,Social Media,26532,No,Not Returned
+955,Ikbal Sethi,38,Female,Sri Ganganagar,Himachal Pradesh,India,Sports,Google Ads,22552,No,Not Returned
+956,Noah Jayaraman,65,Female,Navi Mumbai,Sikkim,India,Beauty,Social Media,2565,No,Not Returned
+957,Garima Bhardwaj,56,Male,Nandyal,Andhra Pradesh,India,Electronics,Google Ads,48403,No,Not Returned
+958,Aarush Dhingra,39,Female,Guna,Jharkhand,India,Sports,Organic,38464,No,Not Returned
+959,Jagvi Sampath,37,Male,Nagercoil,Tripura,India,Fashion,Google Ads,3252,No,Not Returned
+960,Zayan Deo,60,Male,Ahmedabad,Meghalaya,India,Home & Kitchen,Organic,6694,No,Not Returned
+961,Anirudh Varkey,33,Female,Motihari,Jharkhand,India,Home & Kitchen,Organic,34807,No,Not Returned
+962,Jai Banerjee,61,Male,Nagaon,Tripura,India,Sports,Organic,27903,No,Not Returned
+963,Ronith Thakkar,53,Female,Ujjain,Karnataka,India,Fashion,Organic,23837,No,Not Returned
+964,Qabil Luthra,59,Female,Delhi,Madhya Pradesh,India,Fashion,Organic,20972,Yes,Changed Mind
+965,Victor Amble,19,Female,Shivpuri,Tripura,India,Home & Kitchen,Social Media,12521,No,Not Returned
+966,Ikbal Contractor,60,Male,Sagar,Haryana,India,Fashion,Organic,48912,Yes,Late Delivery
+967,Charan Wadhwa,48,Male,Chandigarh,Nagaland,India,Home & Kitchen,Social Media,34030,No,Not Returned
+968,Hamsini Ranganathan,23,Male,Panihati,West Bengal,India,Fashion,Google Ads,31168,Yes,Changed Mind
+969,Sai Dora,55,Male,Bulandshahr,Sikkim,India,Home & Kitchen,Social Media,35321,No,Not Returned
+970,Om Balan,37,Male,Chittoor,Uttar Pradesh,India,Electronics,Organic,22599,No,Not Returned
+971,Jacob Kota,37,Male,Chandigarh,Manipur,India,Fashion,Organic,40787,No,Not Returned
+972,Meghana Majumdar,56,Male,Warangal,Odisha,India,Fashion,Organic,44366,Yes,Defective
+973,Yatan Barad,53,Male,Dhanbad,Madhya Pradesh,India,Sports,Organic,21126,No,Not Returned
+974,Dayamai Chakrabarti,24,Female,Sagar,Arunachal Pradesh,India,Sports,Email,36527,No,Not Returned
+975,Arjun Pathak,22,Female,Guwahati,Tripura,India,Home & Kitchen,Email,12692,No,Not Returned
+976,Eshana Sama,37,Female,Panvel,Madhya Pradesh,India,Sports,Affiliate,4118,No,Not Returned
+977,Keya Raghavan,33,Male,Amravati,Sikkim,India,Home & Kitchen,Google Ads,42351,No,Not Returned
+978,Darsh Andra,28,Female,Morena,Uttar Pradesh,India,Fashion,Social Media,29727,Yes,Damaged
+979,Anay Krishnan,32,Female,Raebareli,Meghalaya,India,Home & Kitchen,Affiliate,29500,Yes,Changed Mind
+980,Faras Kalla,51,Male,Nandyal,Gujarat,India,Fashion,Email,48574,No,Not Returned
+981,Quincy Chaudhry,24,Female,Bally,Jharkhand,India,Home & Kitchen,Organic,48927,Yes,Changed Mind
+982,Zaitra De,47,Male,Raiganj,Tamil Nadu,India,Sports,Affiliate,21245,No,Not Returned
+983,Liam Jani,32,Male,Akola,Mizoram,India,Beauty,Affiliate,9616,No,Not Returned
+984,Vaishnavi Sethi,56,Male,Sikar,Madhya Pradesh,India,Beauty,Email,17369,No,Not Returned
+985,Sai Uppal,26,Male,North Dumdum,Mizoram,India,Home & Kitchen,Google Ads,29345,No,Not Returned
+986,Unnati Solanki,37,Female,Bhubaneswar,Himachal Pradesh,India,Beauty,Email,36200,No,Not Returned
+987,Yuvraj Sheth,63,Female,Coimbatore,Nagaland,India,Fashion,Email,18464,No,Not Returned
+988,Urishilla Murthy,29,Male,Phagwara,Mizoram,India,Beauty,Email,47236,No,Not Returned
+989,Tanmayi Ratti,47,Female,Dindigul,Odisha,India,Beauty,Affiliate,15960,No,Not Returned
+990,Falguni Bhatti,44,Male,Erode,Tamil Nadu,India,Electronics,Email,43181,Yes,Changed Mind
+991,Manan Pal,32,Male,Patiala,Chhattisgarh,India,Beauty,Organic,42036,No,Not Returned
+992,Chakradev Gola,47,Female,Bhiwani,Assam,India,Fashion,Google Ads,33491,Yes,Changed Mind
+993,Nidra Saran,46,Male,Thanjavur,Manipur,India,Beauty,Google Ads,34060,No,Not Returned
+994,Gavin Lala,22,Male,Asansol,Odisha,India,Fashion,Organic,6533,No,Not Returned
+995,Dipta Sura,52,Female,Raurkela Industrial Township,Odisha,India,Sports,Social Media,39635,No,Not Returned
+996,Hemangini Hans,53,Male,Silchar,Rajasthan,India,Fashion,Google Ads,48918,No,Not Returned
+997,Lekha Tiwari,20,Female,Jamnagar,Telangana,India,Beauty,Organic,9648,No,Not Returned
+998,Amara Banik,35,Female,Raiganj,Goa,India,Sports,Organic,16158,No,Not Returned
+999,Anamika Bumb,22,Male,Sambalpur,Rajasthan,India,Electronics,Google Ads,23947,No,Not Returned
+1000,Rajeshri Palla,63,Female,Udaipur,Assam,India,Home & Kitchen,Social Media,14470,No,Not Returned
